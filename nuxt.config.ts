@@ -12,7 +12,7 @@ export default defineNuxtConfig({
   css: ["~/assets/css/main.css"],
   ssr: true,
   app: {
-    baseURL: 'https://canajlift.al',
+    baseURL: '/',
   },
   nitro: {
     preset: 'static'
@@ -21,6 +21,9 @@ export default defineNuxtConfig({
   site: {
     url: "https://canajlift.al",
     name: "Canaj Lift",
+  },
+  robots: {
+    robotsTxt: true, 
   },
   i18n: {
     strategy: "prefix_except_default",
