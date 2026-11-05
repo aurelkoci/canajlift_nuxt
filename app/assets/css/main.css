@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@import "@nuxt/ui";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+    --color-primary: #FF1F20;
+    --color-grafit: #252729;
+    --color-baze: #F4F2ED;
+    --color-celiku: #767D80;
+    --color-mjegull: #E5E4DF;
+}

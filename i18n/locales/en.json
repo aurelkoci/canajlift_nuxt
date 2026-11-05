@@ -1,0 +1,1150 @@
+{
+  "seo": {
+    "home": {
+      "title": "Canaj Lift | Elevators, Installation, 24/7 Maintenance & Modernization",
+      "description": "Canaj Lift brings over 20 years of experience in the installation, maintenance and modernization of passenger, freight, car and home elevators in Albania."
+    },
+    "passenger": {
+      "title": "Passenger Elevators | Canaj Lift",
+      "description": "Electric and hydraulic passenger elevators for residential and commercial buildings. Discover Canaj Lift solutions."
+    },
+    "freight": {
+      "title": "Freight Elevators & Goods Platforms | Canaj Lift",
+      "description": "Electric and hydraulic freight elevators and platforms for moving heavy loads in industrial and commercial facilities."
+    },
+    "carLift": {
+      "title": "Car Elevators | Canaj Lift",
+      "description": "Electric and hydraulic car elevators for efficient vehicle parking and transport in residential, commercial and industrial buildings."
+    },
+    "villaLift": {
+      "title": "Home Elevators (Home Lifts) | Canaj Lift",
+      "description": "Elegant, safe and energy-efficient home lifts for houses and villas. Discover Canaj Lift's tailored solutions."
+    },
+    "stairliftPage": {
+      "title": "Stair Lifts & Access Platforms | Canaj Lift",
+      "description": "Stair lifts and access platforms that improve mobility for people with limited mobility. Tailored solutions from Canaj Lift."
+    },
+    "escalators": {
+      "title": "Escalators & Moving Walkways | Canaj Lift",
+      "description": "Escalators and moving walkways for shopping centres, airports, hotels and public buildings. Design and installation by Canaj Lift."
+    },
+    "industrial": {
+      "title": "Industrial Elevators | Canaj Lift",
+      "description": "Industrial elevators tailored for factories, warehouses and production environments. Solutions designed around each facility's requirements."
+    },
+    "installation": {
+      "title": "Elevator Installation | Canaj Lift",
+      "description": "Professional elevator installation by 12 specialist teams. Canaj Lift installs an average of 20 elevators per month, with a focus on safety, quality and timely delivery."
+    },
+    "maintenance": {
+      "title": "24/7 Elevator Maintenance | Canaj Lift",
+      "description": "Professional elevator maintenance and 24/7 emergency service. More than 400 elevators are maintained by Canaj Lift."
+    },
+    "spareParts": {
+      "title": "Original Elevator Spare Parts | Canaj Lift",
+      "description": "Fast supply of original elevator spare parts from Canaj Lift's stocked inventory. Every part is inspected and tested before installation."
+    },
+    "about": {
+      "title": "About Us | Canaj Lift",
+      "description": "Meet Canaj Lift: over 20 years of experience, more than 40 professionals, and elevator installation, maintenance and modernization services in Albania."
+    },
+    "projects": {
+      "title": "Projects | Canaj Lift",
+      "description": "The Canaj Lift projects page is being updated. Our completed elevator projects will be available soon."
+    },
+    "contact": {
+      "title": "Contact | Canaj Lift",
+      "description": "The Canaj Lift contact page is under construction. You'll be able to contact us here soon."
+    },
+    "login": {
+      "title": "Sign In | Canaj Lift",
+      "description": "The Canaj Lift account sign-in page is under construction and will be available soon."
+    },
+    "modernization": {
+      "title": "Elevator Modernization | Canaj Lift",
+      "description": "Improve your elevator's performance, efficiency and safety with Canaj Lift modernization services."
+    }
+  },
+  "installationPage": {
+    "eyebrow": "Canaj Lift Services",
+    "title": "Professional Elevator Installation",
+    "intro": "At Canaj Lift, we offer a wide range of elevator installation services, including:",
+    "teamStat": "Specialist installation teams",
+    "servicesEyebrow": "Installation from start to finish",
+    "servicesTitle": "Expertise, capacity and commitment in every project.",
+    "imageAlt": "Professional elevator installation by the Canaj Lift team",
+    "imageCaption": "Explore projects completed by Canaj Lift.",
+    "imageLinkLabel": "Explore projects completed by Canaj Lift",
+    "services": {
+      "teams": {
+        "title": "12 Installation Teams",
+        "description": "With 12 specialist teams, we can manage projects of any scale and complexity, ensuring your elevator is installed quickly and efficiently.",
+        "highlight": "12 teams, 1 goal: your perfect installation."
+      },
+      "expertise": {
+        "title": "Expertise and Professionalism",
+        "description": "Our team of certified engineers and technicians is committed to delivering the highest standard of installation, using the latest technology and safe procedures to ensure a reliable, secure result.",
+        "highlight": "Certified expertise, installation you can trust."
+      },
+      "capacity": {
+        "title": "Installation Capacity",
+        "description": "With the capacity to install an average of 20 elevators per month, we ensure your project is completed on time and to the highest standard.",
+        "highlight": "20 elevators a month, your project completed on time."
+      },
+      "custom": {
+        "title": "Tailored Solutions",
+        "description": "We work closely with you to understand your specific needs and create an installation plan that is the right fit for your project.",
+        "highlight": "A solution for your needs, a perfect installation for your project."
+      },
+      "support": {
+        "title": "Ongoing Support",
+        "description": "We provide technical support and training after installation to help ensure your elevator continues to operate at its best over the long term.",
+        "highlight": "Support beyond installation, for optimal performance over time."
+      },
+      "standards": {
+        "title": "Compliance with Standards",
+        "description": "Every installation is carried out in strict accordance with international safety and quality standards.",
+        "highlight": "Safety and quality, guided by international standards."
+      }
+    },
+    "closingEyebrow": "Your installation partner",
+    "closingTitle": "Fast, safe and professional installation.",
+    "closingText": "Trust Canaj Lift to install your elevator quickly, safely and professionally, with a solution that meets all your needs.",
+    "contactCta": "Contact us"
+  },
+  "maintenancePage": {
+    "eyebrow": "Canaj Lift Services",
+    "title": "Professional Elevator Maintenance",
+    "intro": "At Canaj Lift, we provide specialized elevator maintenance services, including:",
+    "clientStat": "Elevators currently under our maintenance",
+    "servicesEyebrow": "Ongoing care for your elevator",
+    "servicesTitle": "Reliable service, expertise and 24/7 availability.",
+    "imageAlt": "Professional elevator maintenance service by Canaj Lift",
+    "imageCaption": "Explore projects completed by Canaj Lift.",
+    "imageLinkLabel": "Explore projects completed by Canaj Lift",
+    "services": {
+      "expertise": {
+        "title": "Expertise and Professionalism",
+        "description": "Our team of certified engineers and technicians uses modern technology and safe procedures to provide professional, reliable service for your elevator.",
+        "highlight": "Certified expertise, reliable service."
+      },
+      "plans": {
+        "title": "Personalized Maintenance Planning",
+        "description": "Our technical team develops tailored maintenance plans for each client, helping keep every elevator in optimal condition and safe for its users.",
+        "highlight": "Every elevator is unique; every maintenance plan is tailored to you."
+      },
+      "emergency": {
+        "title": "24/7 Emergency Service and Repairs",
+        "description": "We provide 24/7 emergency availability and rapid repairs, working professionally to resolve every issue as quickly as possible.",
+        "highlight": "Anytime, anywhere, we're here for you."
+      },
+      "specialists": {
+        "title": "Specialist Expertise",
+        "description": "Our qualified, certified technicians have the knowledge and tools needed to provide fast, effective solutions to issues with your elevator.",
+        "highlight": "Experts on call, solutions without delay."
+      },
+      "monitoring": {
+        "title": "Remote Monitoring",
+        "description": "Advanced technology allows us to monitor your elevator in real time and identify potential issues before they arise.",
+        "highlight": "24/7 monitoring, problems prevented."
+      },
+      "reporting": {
+        "title": "Transparent Reporting",
+        "description": "You receive detailed reports on your elevator's condition and the work carried out, keeping you informed at every step.",
+        "highlight": "Transparent reporting, peace of mind."
+      }
+    },
+    "closingEyebrow": "Trust Canaj Lift",
+    "closingTitle": "Your trust, our service.",
+    "closingText": "Trust us for professional maintenance that helps extend the service life of your elevator!",
+    "contactCta": "Contact us"
+  },
+  "modernizationPage": {
+    "eyebrow": "Canaj Lift Services",
+    "title": "Elevator Modernization",
+    "intro": "At Canaj Lift, we are committed to improving your existing elevators through modernization, including:",
+    "stat": "Modern technology for improved performance, efficiency and safety.",
+    "servicesEyebrow": "Upgrade your elevator",
+    "servicesTitle": "Technology, automation and professional guidance.",
+    "imageAlt": "Elevator modernized by Canaj Lift",
+    "imageCaption": "Explore projects completed by Canaj Lift.",
+    "imageLinkLabel": "Explore projects completed by Canaj Lift",
+    "services": {
+      "technology": {
+        "title": "New Technology and Efficient Upgrades",
+        "description": "We offer modern solutions and the latest technology to improve the performance, efficiency and safety of existing elevators.",
+        "highlight": "An old elevator? We make it feel new with the latest technology."
+      },
+      "automation": {
+        "title": "Digital Upgrades and Automation",
+        "description": "Using advanced computer systems and process automation, we help bring your elevators in line with current industry standards and deliver a better user experience.",
+        "highlight": "Smart modernization for greater efficiency and comfort."
+      },
+      "support": {
+        "title": "Professional Support and Consultation",
+        "description": "Our specialist team provides ongoing guidance and support in choosing suitable elevator modernization solutions, including financing and implementation.",
+        "highlight": "Our experts guide you to the best solution for your needs."
+      }
+    },
+    "closingEyebrow": "Trust Canaj Lift",
+    "closingTitle": "Better elevators, longer service life.",
+    "closingText": "Trust us for professional modernization that improves performance and extends the service life of your elevator!",
+    "contactCta": "Contact us"
+  },
+  "sparePartsPage": {
+    "eyebrow": "Canaj Lift Services",
+    "title": "Original Elevator Spare Parts",
+    "intro": "At Canaj Lift, we provide original spare parts and fast supply from our continuously stocked inventory, supporting reliable, long-lasting elevator operation.",
+    "requestCta": "Request spare parts",
+    "iconAlt": "Canaj Lift spare parts icon",
+    "visualEyebrow": "Spare parts",
+    "visualTitle": "The right components. Reliable quality.",
+    "visualText": "Our experience in elevator service supports the selection and supply of spare parts.",
+    "benefitsEyebrow": "Supply and quality",
+    "benefitsTitle": "The right parts, handled with care at every step.",
+    "benefits": {
+      "original": {
+        "title": "Original Components",
+        "description": "We supply original components to support the reliable operation of elevators.",
+        "highlight": "Original parts for dependable performance."
+      },
+      "stock": {
+        "title": "Fast Supply",
+        "description": "Our continuously stocked inventory helps us supply the parts you need quickly.",
+        "highlight": "Spare parts available when you need them."
+      },
+      "quality": {
+        "title": "Inspection and Testing",
+        "description": "Every part is inspected and tested for safety before installation.",
+        "highlight": "Every part is tested for maximum safety before installation."
+      }
+    },
+    "closingEyebrow": "Support for your elevator",
+    "closingTitle": "Reliable parts. Professional service.",
+    "closingText": "Contact us to find the spare parts you need and get support from the Canaj Lift team.",
+    "contactCta": "Contact us"
+  },
+  "contactPage": {
+    "status": "Page under construction",
+    "title": "We are preparing our contact page.",
+    "description": "We are working to complete this page. Soon, you will find the ways to contact the Canaj Lift team here.",
+    "homeCta": "Back to home"
+  },
+  "projectsPage": {
+    "status": "Page under construction",
+    "title": "Our projects are taking shape.",
+    "description": "We are working to complete this page and showcase our completed projects. Check back soon to explore them.",
+    "progressLabel": "Page in progress",
+    "homeCta": "Back to home",
+    "contactCta": "Contact us"
+  },
+  "aboutPage": {
+    "eyebrow": "About Canaj Lift",
+    "title": "20 Years of Elevation, Trust and Safety.",
+    "intro": "Welcome to Canaj Lift, your trusted provider of advanced elevator solutions. For over 20 years, we have built a strong reputation for quality and outstanding service, becoming one of the leaders in Albania's elevator industry.",
+    "cta": "Explore our services",
+    "images": {
+      "elevator": "Elevator in a modern building",
+      "team": "Canaj Lift technical service fleet",
+      "details": "Elevator cabin and installation details",
+      "project": "Commercial elevator project"
+    },
+    "whoEyebrow": "Expertise that takes you higher",
+    "whoTitle": "Who we are",
+    "whoText": "With a dedicated team of more than 40 professionals, Canaj Lift brings deep expertise and experience to every project. We believe in continually developing our team so our clients benefit from the latest technologies and best practices in the elevator industry.",
+    "whatTitle": "What we do",
+    "whatIntro": "We offer a full range of services to meet our clients' needs:",
+    "services": {
+      "installation": {
+        "title": "Elevator Installation",
+        "description": "We install an average of 20 elevators each month to high quality and safety standards. Alongside our own projects, we also carry out installations for other elevator companies."
+      },
+      "maintenance": {
+        "title": "Maintenance and Repairs",
+        "description": "With more than 400 elevators under maintenance, we help ensure safe, uninterrupted operation, minimize downtime and extend equipment service life."
+      },
+      "modernization": {
+        "title": "Modernization and Upgrades",
+        "description": "We improve the performance and safety of existing elevators with modern technology and solutions tailored to each project."
+      }
+    },
+    "stats": {
+      "experience": "Experience in the elevator industry.",
+      "team": "Professionals dedicated to every project.",
+      "maintenance": "Elevators currently under maintenance."
+    },
+    "valuesEyebrow": "Our principles",
+    "valuesTitle": "Our values",
+    "valuesIntro": "Our success comes from our commitment to quality, our clients and professionalism.",
+    "values": {
+      "quality": {
+        "title": "Quality and Innovation",
+        "description": "We use advanced technology to deliver efficient, safe and reliable elevators."
+      },
+      "client": {
+        "title": "Customer Service",
+        "description": "We listen to and understand your needs to provide tailored solutions and exceptional service."
+      },
+      "professionalism": {
+        "title": "Commitment and Professionalism",
+        "description": "Our trained and certified team works professionally on every project and service."
+      }
+    },
+    "partnersTitle": "Our partners",
+    "closingEyebrow": "Canaj Lift",
+    "closingTitle": "Quality that takes you higher. Service that keeps you there.",
+    "closingText": "From installation and maintenance to modernization, our team is with you at every stage of your project.",
+    "contactCta": "Contact us"
+  },
+  "villaLift": {
+    "intro": {
+      "category": "Introduction",
+      "title": "Home Elevators (Home Lifts)",
+      "description": "At Canaj Lift, we bring comfort and luxury to your home with our home elevators, also known as home lifts. They provide comfortable, safe and stylish vertical transport, improve access to every floor and add value to your property."
+    },
+    "design": {
+      "title": "Bespoke Design and Modern Aesthetics",
+      "description": "Our home elevators are tailored to each client's individual taste and needs. We offer a wide range of designs and materials to complement your home's style and interior:",
+      "items": [
+        {
+          "title": "Elegant, modern design:",
+          "text": " Our home lifts are a stylish addition to any home, with a sophisticated, contemporary look."
+        },
+        {
+          "title": "Custom options:",
+          "text": " Cabins, doors and control panels can be customized to meet your requirements."
+        }
+      ]
+    },
+    "safety": {
+      "title": "Safety and Reliability",
+      "description": "Safety is our top priority. Our home lifts are equipped with advanced systems to ensure safe, reliable operation:",
+      "items": [
+        {
+          "title": "Integrated safety systems:",
+          "text": " Sensors, emergency brakes and emergency communication help protect users."
+        },
+        {
+          "title": "Certifications and high standards:",
+          "text": " Our home lifts are built to industry standards and certified for safety and quality."
+        }
+      ]
+    },
+    "efficiency": {
+      "title": "Energy Efficiency and Advanced Technology",
+      "description": "Our home elevators are designed for efficient energy use and high performance:",
+      "items": [
+        {
+          "title": "Efficient drive systems:",
+          "text": " Advanced motors and systems reduce energy consumption and operating costs."
+        },
+        {
+          "title": "Sustainable technology:",
+          "text": " We aim to use sustainable technology and materials to minimize environmental impact."
+        }
+      ]
+    },
+    "projectsCaption": "View completed projects.",
+    "tailored": {
+      "title": "Tailored Solutions for Every Villa",
+      "description": "Whether you are building a new villa or renovating an existing one, we provide solutions tailored to your needs:",
+      "items": [
+        {
+          "title": "Installation in existing buildings:",
+          "text": " Our home lifts can be installed in existing buildings without major structural changes."
+        },
+        {
+          "title": "New construction:",
+          "text": " We work closely with architects and builders to integrate the elevator seamlessly into your new home's design."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Benefits of a Home Lift",
+      "items": [
+        {
+          "title": "Improved accessibility:",
+          "text": " A home lift provides easy, safe access to every floor, including for people with limited mobility."
+        },
+        {
+          "title": "Increased property value:",
+          "text": " A home lift adds value and appeal while bringing luxury and comfort to your home."
+        },
+        {
+          "title": "Everyday convenience:",
+          "text": " Move around your home with ease and enjoy greater comfort every day."
+        }
+      ]
+    }
+  },
+  "stairliftPage": {
+    "intro": {
+      "category": "Accessibility",
+      "title": "Stair Lifts & Access Platforms",
+      "description": "A stair lift platform helps people with limited mobility move between floors more independently. Canaj Lift provides solutions planned around the available space, stair configuration and user's needs."
+    },
+    "platform": {
+      "title": "Easy Movement on Stairs",
+      "description": "The platform travels along the stairs and can be adapted for wheelchair use, depending on the project configuration.",
+      "items": [
+        {
+          "title": "Fits the staircase:",
+          "text": " The solution is planned according to the shape and dimensions of the stairs."
+        },
+        {
+          "title": "Wheelchair access:",
+          "text": " The platform offers a practical way to move between floors without using the stairs on foot."
+        }
+      ]
+    },
+    "safety": {
+      "title": "Safety and Control",
+      "description": "Equipment selection and installation take everyday use and the specific conditions of the building into account.",
+      "items": [
+        {
+          "title": "Controlled operation:",
+          "text": " Clear controls make it easier to start and stop the platform."
+        },
+        {
+          "title": "Professional installation:",
+          "text": " Assessment and installation by specialists help ensure the solution is suitable for the space and user."
+        }
+      ]
+    },
+    "installation": {
+      "title": "Designed for Existing Spaces",
+      "description": "Every project begins with an assessment of the staircase and access at the entry and exit points to identify a suitable solution.",
+      "items": [
+        {
+          "title": "Site assessment:",
+          "text": " We review the stair configuration, available space and intended use."
+        },
+        {
+          "title": "Project-specific solution:",
+          "text": " Dimensions and placement are determined based on the building conditions and the user's needs."
+        }
+      ]
+    },
+    "imageCaption": "View completed projects.",
+    "tailored": {
+      "title": "The Right Solution for Every Building",
+      "description": "Needs differ from one space to another. Our team can help you assess the options and select a suitable platform.",
+      "items": [
+        {
+          "title": "For existing buildings:",
+          "text": " We assess the stairs and available space to plan installation with as few necessary alterations as possible."
+        },
+        {
+          "title": "Project guidance:",
+          "text": " We advise you on the solution, placement and installation requirements."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Benefits of an Access Platform",
+      "items": [
+        {
+          "title": "Greater independence:",
+          "text": " Helps users move between floors with less reliance on assistance from others."
+        },
+        {
+          "title": "Improved access:",
+          "text": " Makes upper and lower floors more accessible for people with limited mobility."
+        },
+        {
+          "title": "A tailored solution:",
+          "text": " Planned with the building and the user's specific needs in mind."
+        }
+      ]
+    }
+  },
+  "escalators": {
+    "intro": {
+      "category": "Public and Commercial Transport",
+      "title": "Escalators and Moving Walkways",
+      "description": "Escalators and moving walkways support continuous passenger flow in buildings with high foot traffic. Canaj Lift provides solutions tailored to shopping centres, airports, hotels, stations and other public and commercial facilities."
+    },
+    "escalators": {
+      "title": "Escalators",
+      "description": "Escalators connect different levels and help organize visitor circulation in multi-storey spaces.",
+      "items": [
+        {
+          "title": "For high-traffic buildings:",
+          "text": " Solutions for shopping centres, airports, hotels and public spaces."
+        },
+        {
+          "title": "Designed for the building:",
+          "text": " Configuration is determined by the layout, floor-to-floor height and traffic requirements."
+        }
+      ]
+    },
+    "walkways": {
+      "title": "Moving Walkways",
+      "description": "Moving walkways make it easier to travel along long corridors or between areas of a building, supporting the flow of visitors.",
+      "items": [
+        {
+          "title": "Movement over longer distances:",
+          "text": " Suitable for corridors, terminals and large spaces with continuous traffic."
+        },
+        {
+          "title": "Different configurations:",
+          "text": " Depending on the project, a solution can be planned for horizontal or inclined travel."
+        }
+      ]
+    },
+    "installation": {
+      "title": "Planning and Installation",
+      "description": "Selecting the right equipment starts with assessing the building, expected traffic and available space.",
+      "items": [
+        {
+          "title": "Technical assessment:",
+          "text": " We review the location, user circulation and installation conditions."
+        },
+        {
+          "title": "Project integration:",
+          "text": " We coordinate the solution with the building's architectural and functional requirements."
+        }
+      ]
+    },
+    "imageCaption": "View completed projects.",
+    "tailored": {
+      "title": "Solutions for Your Building",
+      "description": "Every building has specific space and circulation requirements. We help you determine the right type and configuration.",
+      "items": [
+        {
+          "title": "For new buildings:",
+          "text": " Planning during the design stage helps integrate the equipment into the building's circulation."
+        },
+        {
+          "title": "For existing facilities:",
+          "text": " We assess the space and technical conditions to identify installation or modernization options."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Key Benefits",
+      "items": [
+        {
+          "title": "Easier circulation:",
+          "text": " Help move visitors between floors or along long spaces."
+        },
+        {
+          "title": "Practical use of space:",
+          "text": " Their integration can improve movement planning in public and commercial buildings."
+        },
+        {
+          "title": "Tailored solutions:",
+          "text": " The type and configuration are selected according to the project and building requirements."
+        }
+      ]
+    }
+  },
+  "industrial": {
+    "intro": {
+      "category": "Industrial Solutions",
+      "title": "Industrial Elevators",
+      "description": "Industrial elevators support the movement of personnel and loads between levels in production facilities, warehouses and logistics spaces. Canaj Lift plans solutions around load requirements, usage intensity and site conditions."
+    },
+    "elevators": {
+      "title": "Elevators for Industrial Environments",
+      "description": "Designed to support daily operations in factories, workshops and logistics facilities.",
+      "items": [
+        {
+          "title": "For intensive use:",
+          "text": " The configuration is tailored to the work pace and requirements of the facility."
+        },
+        {
+          "title": "Based on load and space:",
+          "text": " Capacity and dimensions are determined by the goods and installation conditions."
+        }
+      ]
+    },
+    "freight": {
+      "title": "Transporting Goods and Equipment",
+      "description": "Goods-lift solutions enable the vertical movement of loads, materials and equipment within a facility.",
+      "items": [
+        {
+          "title": "For warehouses and production:",
+          "text": " Help move goods between work areas and levels of the facility."
+        },
+        {
+          "title": "Fits the workflow:",
+          "text": " The solution is planned around loading methods and the flow of work."
+        }
+      ]
+    },
+    "installation": {
+      "title": "Technical Planning and Installation",
+      "description": "A technical assessment helps determine a suitable system for the facility, load and operating conditions.",
+      "items": [
+        {
+          "title": "Facility assessment:",
+          "text": " We review the available space, levels, load and expected usage intensity."
+        },
+        {
+          "title": "Operational integration:",
+          "text": " Placement is planned to support the movement of personnel or goods within the facility."
+        }
+      ]
+    },
+    "imageCaption": "View completed projects.",
+    "tailored": {
+      "title": "Solutions for Industrial Requirements",
+      "description": "Every industrial environment has different processes and conditions. The solution is determined after reviewing the project and facility requirements.",
+      "items": [
+        {
+          "title": "Factories and workshops:",
+          "text": " We plan elevators around production-area layouts and transport needs."
+        },
+        {
+          "title": "Warehousing and logistics:",
+          "text": " We tailor the solution to the movement of goods, equipment and materials between levels."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Benefits of Industrial Elevators",
+      "items": [
+        {
+          "title": "Supports daily operations:",
+          "text": " Makes it easier to move personnel and loads around the facility."
+        },
+        {
+          "title": "More organized flow:",
+          "text": " Helps connect different levels and work areas."
+        },
+        {
+          "title": "Purpose-built design:",
+          "text": " Capacity and configuration are tailored to usage requirements."
+        }
+      ]
+    }
+  },
+  "carLift": {
+    "intro": {
+      "category": "Introduction",
+      "title": "Car Elevators",
+      "description": "At Canaj Lift, we provide advanced, reliable solutions for parking and transporting vehicles. Our car elevators are designed for commercial, residential and industrial buildings, making efficient use of available space. We offer both electric and hydraulic car elevators."
+    },
+    "electric": {
+      "title": "Electric Car Elevators",
+      "description": "Electric car elevators are suitable for multi-storey buildings and the fast, efficient transport of vehicles. Their key advantages include:",
+      "advantages": [
+        {
+          "title": "Speed and efficiency:",
+          "text": " Electric technology offers high speed and low energy consumption, making vehicle transport fast and reliable."
+        },
+        {
+          "title": "Advanced control:",
+          "text": " Electronic control systems ensure stable, precise operation while minimizing vibration and noise."
+        },
+        {
+          "title": "High performance:",
+          "text": " Electric elevators handle heavy loads and deliver consistent performance in varied operating conditions."
+        }
+      ]
+    },
+    "hydraulic": {
+      "title": "Hydraulic Car Elevators",
+      "description": "Hydraulic car elevators are a suitable choice for low-rise buildings and for stable, safe vehicle transport. Their key advantages include:",
+      "advantages": [
+        {
+          "title": "Easier installation:",
+          "text": " They require simpler installation and less space, making them suitable for low-rise buildings and space-constrained sites."
+        },
+        {
+          "title": "Stability and durability:",
+          "text": " Hydraulic technology provides smooth, stable movement for transporting vehicles in varied operating conditions."
+        },
+        {
+          "title": "Lower maintenance costs:",
+          "text": " Hydraulic elevators have lower maintenance costs and are known for long-term durability and reliability."
+        }
+      ]
+    },
+    "projectsCaption": "View completed projects.",
+    "solutions": {
+      "title": "Tailored Solutions for Every Need",
+      "description": "At Canaj Lift, we provide customized car elevator solutions for:",
+      "items": [
+        {
+          "title": "Residential buildings:",
+          "text": " Comfortable, safe solutions for residents who need convenient and efficient parking."
+        },
+        {
+          "title": "Commercial buildings:",
+          "text": " For offices and shopping centres, we provide elevators designed for intensive use and reliable operation."
+        },
+        {
+          "title": "Garages and depots:",
+          "text": " Robust, durable solutions for parking facilities and industrial depots, tailored to project requirements."
+        }
+      ]
+    },
+    "advantages": {
+      "title": "Benefits of Car Elevators",
+      "items": [
+        {
+          "title": "Efficient use of space:",
+          "text": " Car elevators help maximize the available parking space in your building."
+        },
+        {
+          "title": "Increased property value:",
+          "text": " Modern parking solutions can increase the value and appeal of your property."
+        },
+        {
+          "title": "Convenience and ease:",
+          "text": " Our elevators make parking and retrieving your car quick and easy, improving the user experience."
+        }
+      ]
+    },
+    "safety": {
+      "title": "Safety and Quality",
+      "description": "Our car elevators are built to the highest safety and quality standards. We use quality components and advanced technology to ensure safe, efficient operation over the long term.",
+      "contact": "Contact us today to learn more about our car elevators and find out how we can help bring your project to life."
+    }
+  },
+  "freight": {
+    "intro": {
+      "category": "Introduction",
+      "title": "Freight Elevators",
+      "description": "At Canaj Lift, we understand the importance of efficiency and reliability in moving goods. Our freight elevators are designed for diverse industry needs, providing robust, durable solutions for heavy and bulky loads. We offer a wide range of freight elevators and platforms, including electric and hydraulic models."
+    },
+    "electric": {
+      "title": "Electric Freight Elevators",
+      "description": "Electric freight elevators are ideal for multi-storey buildings and transporting large, heavy loads. Their key advantages include:",
+      "advantages": [
+        {
+          "title": "High load capacity:",
+          "text": " Designed for heavy loads, these elevators are suitable for industrial and commercial use."
+        },
+        {
+          "title": "Speed and efficiency:",
+          "text": " Electric technology delivers high speed and efficiency, reducing wait times and increasing productivity."
+        },
+        {
+          "title": "Durability and reliability:",
+          "text": " Quality components and robust construction provide consistent, reliable performance in varied operating conditions."
+        }
+      ]
+    },
+    "hydraulic": {
+      "title": "Hydraulic Freight Elevators",
+      "description": "Hydraulic freight elevators are suitable for low-rise buildings and loads that require stable, safe transportation. Their key advantages include:",
+      "advantages": [
+        {
+          "title": "Lower installation cost:",
+          "text": " Hydraulic elevators generally cost less to install and maintain than electric models."
+        },
+        {
+          "title": "Stable transportation:",
+          "text": " Hydraulic systems provide a smooth, stable ride for heavy and bulky loads."
+        },
+        {
+          "title": "Flexibility and versatility:",
+          "text": " Suitable for a wide range of applications, from warehouses and depots to factories and commercial buildings."
+        }
+      ]
+    },
+    "platforms": {
+      "title": "Goods Platforms",
+      "description": "In addition to traditional freight elevators, we offer electric and hydraulic platforms for moving goods. They are designed to provide maximum flexibility and efficiency when handling different loads:",
+      "advantages": [
+        {
+          "title": "Electric goods platforms:",
+          "text": " Deliver high performance and energy efficiency, making them suitable for continuous use and heavy loads."
+        },
+        {
+          "title": "Hydraulic goods platforms:",
+          "text": " Provide high stability and durability, ideal for a range of industrial and commercial environments."
+        }
+      ]
+    },
+    "projectsCaption": "View completed projects.",
+    "solutions": {
+      "title": "Tailored Solutions for Every Need",
+      "description": "At Canaj Lift, we provide customized solutions for each client's specific needs. Whether you need a high-capacity elevator for heavy loads or a flexible platform for moving goods, we have the right solution."
+    },
+    "safety": {
+      "title": "Safety and Quality",
+      "description": "All our freight elevators and platforms are built to the highest safety and quality standards. We use quality materials and the latest technologies to ensure safe, efficient operation over the long term.",
+      "contact": "Contact us today to learn more about our freight elevators and platforms and find out how we can help bring your project to life."
+    }
+  },
+  "passenger": {
+    "intro": {
+      "category": "Introduction",
+      "title": "Passenger Elevators",
+      "description": "At Canaj Lift, we are committed to providing passenger elevators that meet and exceed our clients' expectations. Our elevators are designed for a smooth, safe and comfortable ride, using the latest technologies and the highest industry standards."
+    },
+    "electric": {
+      "title": "Electric Elevators",
+      "description": "Electric elevators are ideal for multi-storey buildings, offering high speeds and energy efficiency. Their key advantages include:",
+      "advantages": [
+        {
+          "title": "Speed and efficiency:",
+          "text": " Electric elevators are ideal for tall buildings where passengers need to be transported quickly."
+        },
+        {
+          "title": "Advanced technology:",
+          "text": " Advanced motors and inverters provide a smooth, consistent ride."
+        },
+        {
+          "title": "High performance:",
+          "text": " Electric elevators handle heavy loads and deliver excellent performance across a range of operating conditions."
+        }
+      ]
+    },
+    "hydraulic": {
+      "title": "Hydraulic Elevators",
+      "description": "Hydraulic elevators are an excellent choice for low-rise buildings, offering high reliability and durability. Their key advantages include:",
+      "advantages": [
+        {
+          "title": "Lower installation cost:",
+          "text": " Hydraulic elevators generally have lower installation and maintenance costs, making them suitable for low- and mid-rise buildings."
+        },
+        {
+          "title": "Versatile applications:",
+          "text": " They can be used in a wide range of settings, from residential to commercial buildings."
+        },
+        {
+          "title": "Stability and durability:",
+          "text": " Hydraulic systems offer excellent stability and are known for their long service life."
+        }
+      ]
+    },
+    "projectsCaption": "View completed projects.",
+    "solutions": {
+      "title": "Tailored Solutions for Every Need",
+      "description": "At Canaj Lift, we understand that every building and project has unique requirements. That's why we offer tailored electric and hydraulic elevator solutions for:",
+      "items": [
+        {
+          "title": "Residential buildings:",
+          "text": " Our elevators provide residents with a smooth, safe ride while adding value and comfort to your building."
+        },
+        {
+          "title": "Commercial buildings:",
+          "text": " For offices and commercial spaces, we provide reliable, efficient elevators that can handle high passenger volumes."
+        },
+        {
+          "title": "Low- and high-rise buildings:",
+          "text": " Whether you need an elevator for a multi-storey building or a low-rise property, we have the right solution."
+        }
+      ]
+    },
+    "safety": {
+      "title": "Safety and Quality",
+      "description": "All our elevators are built to the highest safety and quality standards. We use high-quality components and advanced technology to ensure safe, efficient operation over the long term.",
+      "contact": "Contact us today to learn more about our passenger elevators and find out how we can help bring your project to life."
+    }
+  },
+  "home": {
+    "hero": {
+      "badge": "20+ Years of Experience • EU Directives",
+      "title": "Movement with precision.",
+      "subtitleAccent": "Every level, elevated.",
+      "description": "Your vertical movement, our absolute priority for safety. We provide complete elevator design, supply, installation and maintenance solutions using the most advanced technology in Albania.",
+      "ctaPrimary": "Request a quote",
+      "ctaSecondary": "View projects",
+      "imageAlt": "Modern atrium with Canaj Lift elevators",
+      "cardLabel": "Safety & European Standards",
+      "cardTitle": "Rise with confidence. Canaj Lift takes you higher."
+    },
+    "stats": {
+      "ariaLabel": "Our capabilities at a glance",
+      "yearsLabel": "Years of Experience",
+      "yearsDescription": "Decades of experience and leadership in Albania's elevator industry.",
+      "staffLabel": "Professionals & 12 Teams",
+      "staffDescription": "A large, qualified team with 12 installation crews for every project.",
+      "capacityLabel": "Installation Capacity",
+      "capacityValue": "20 / month",
+      "capacityDescription": "High monthly capacity to deliver major projects on schedule.",
+      "maintenanceLabel": "Elevators Maintained",
+      "maintenanceDescription": "Proven reliability, technical support and 24/7 emergency service."
+    },
+    "products": {
+      "eyebrow": "01 / Product Portfolio",
+      "title": "Room to move.",
+      "subtitle": "Tailored solutions for residential buildings, shopping centres, villas and industrial spaces, with electric and hydraulic systems."
+    },
+    "productCards": {
+      "tags": {
+        "electric": "Electric",
+        "hydraulic": "Hydraulic",
+        "platform": "Platform",
+        "customDesign": "Custom Design",
+        "lowConsumption": "Low Consumption",
+        "ergonomic": "Ergonomic",
+        "maximumSafety": "Maximum Safety",
+        "shoppingCentres": "Shopping Centres",
+        "publicSpaces": "Public Spaces",
+        "heavyDuty": "Heavy Duty",
+        "industrial": "Industrial"
+      },
+      "passenger": {
+        "name": "Passenger Elevators",
+        "description": "A smooth, safe and comfortable ride for busy residential and commercial buildings.",
+        "features": [
+          "High speed and energy efficiency with advanced motors and inverters",
+          "Tailored solutions for both low- and high-rise buildings"
+        ]
+      },
+      "goods": {
+        "name": "Freight Elevators",
+        "description": "Robust, durable solutions for moving heavy loads in warehouses and factories.",
+        "features": ["High load capacity", "Reinforced, durable construction"]
+      },
+      "car": {
+        "name": "Car Elevators",
+        "description": "Advanced systems for parking and vertically transporting vehicles in limited spaces.",
+        "features": ["Maximizes available parking space", "Smooth electronic control"]
+      },
+      "home": {
+        "name": "Home Elevators",
+        "description": "Comfort, luxury and bespoke design for new and existing homes and villas.",
+        "features": ["Installation with minimal structural changes", "Custom cabins and doors"]
+      },
+      "stairlift": {
+        "name": "Stairlifts",
+        "description": "Independence and safe access between floors for people with reduced mobility.",
+        "features": ["Safety belts, obstacle sensors and emergency brakes", "Simple remote control"]
+      },
+      "escalators": {
+        "name": "Escalators & Moving Walkways",
+        "description": "Continuous flow and high capacity for shopping centres, airports and public spaces.",
+        "features": ["Reduced waiting times and congestion", "Modern, durable design"]
+      },
+      "industrial": {
+        "name": "Industrial Elevators",
+        "description": "Purpose-built, exceptionally durable systems for production lines, warehouses and industrial facilities.",
+        "features": ["Continuous intensive operation", "Compliance with technical safety standards"]
+      }
+    },
+    "services": {
+      "eyebrow": "02 / End-to-End Solutions",
+      "title": "From concept to system. Support that never stops.",
+      "subtitle": "Everything needed for uninterrupted operation and full compliance with European Union directives."
+    },
+    "serviceCards": {
+      "installation": {
+        "name": "Professional Installation",
+        "description": "12 certified installation teams for projects ranging from straightforward to highly complex.",
+        "highlight": "Around 20 elevators installed each month, on time and with safety assured."
+      },
+      "maintenance": {
+        "name": "Maintenance & 24/7 Service",
+        "description": "Tailored preventive maintenance plans and 24/7 response for every emergency.",
+        "highlight": "More than 400 elevators under our ongoing maintenance."
+      },
+      "modernization": {
+        "name": "System Modernization",
+        "description": "Digital upgrades, automation and improved efficiency for existing elevators.",
+        "highlight": "Full alignment with the latest European industry standards."
+      },
+      "spareParts": {
+        "name": "Original Spare Parts",
+        "description": "Fast supply from our continuously stocked inventory of original components.",
+        "highlight": "Every part is inspected and tested for maximum safety before installation."
+      }
+    },
+    "about": {
+      "eyebrow": "03 / About Canaj Lift",
+      "title": "Distinctive at every level.",
+      "lead": "For over 20 years, Canaj Lift has built a strong reputation for quality and outstanding service. Alongside our own projects, we also carry out installations for other elevator companies in the market, making us Albania's preferred engineering partner.",
+      "cta": "Our Story & Certifications",
+      "slogan": "Quality that takes you higher. Service that keeps you there.",
+      "card1Eyebrow": "01 / 24/7 Field Service",
+      "card1ImageAlt": "Canaj Lift service vehicle fleet",
+      "card1Title": "Service Fleet & 12 Teams",
+      "card1Text": "A dedicated technical fleet for construction-site installations and rapid emergency response.",
+      "card2Eyebrow": "02 / CE Certification",
+      "card2ImageAlt": "Canaj Lift elevator cabins and architectural signage",
+      "card2Title": "Signage & Precision",
+      "card2Text": "Modern stainless-steel cabins, intelligent control systems and safety-tested components."
+    },
+    "values": {
+      "qualityTitle": "Quality & Innovation",
+      "qualityText": "We use advanced technology to deliver efficient, quiet and safe elevators.",
+      "clientTitle": "Personalized Client Service",
+      "clientText": "We assess each building's architectural requirements to provide the best solution.",
+      "proTitle": "Commitment & Professionalism",
+      "proText": "A team of 40 trained and certified professionals for every stage of your project."
+    },
+    "projects": {
+      "eyebrow": "04 / Projects in the Field",
+      "title": "Our completed projects.",
+      "viewAll": "View all projects",
+      "locations": {
+        "tirana": "Tirana",
+        "durres": "Durrës"
+      },
+      "capacities": {
+        "residential": "8 People / 630 kg",
+        "business": "3500 kg (Vehicles)",
+        "private": "4 People / 320 kg"
+      },
+      "items": {
+        "residential": {
+          "title": "Residential & Commercial Complex",
+          "type": "Electric Passenger Elevators",
+          "description": "High-speed elevator installation with stainless-steel cabins and excellent energy efficiency."
+        },
+        "business": {
+          "title": "Business Centre & Underground Parking",
+          "type": "Car & Passenger Elevators",
+          "description": "An integrated solution for vertical vehicle transport and visitor circulation."
+        },
+        "private": {
+          "title": "Luxury Private Residence",
+          "type": "Villa Elevator (Home Lift)",
+          "description": "A custom-designed home lift with ultra-quiet operation and minimal energy consumption."
+        }
+      }
+    },
+    "partners": {
+      "title": "Our Collaborators & Partners"
+    },
+    "testimonials": {
+      "eyebrow": "05 / Client Testimonials",
+      "title": "Our clients' words speak louder than ours.",
+      "items": {
+        "artan": {
+          "quote": "Canaj Lift provided excellent service, installing our new elevator on time and within budget. We are very pleased with their quality and professionalism.",
+          "role": "Construction Manager"
+        },
+        "agron": {
+          "quote": "We have worked with Canaj Lift on several projects and have always been impressed by their excellent service and high-quality work.",
+          "role": "Architect"
+        },
+        "ermira": {
+          "quote": "Thanks to Canaj Lift, our old elevator works like new! Their maintenance service is excellent and their prices are very reasonable.",
+          "role": "Building Manager"
+        },
+        "klement": {
+          "quote": "As a villa owner, I was looking for an elegant and reliable elevator. Canaj Lift offered the perfect solution with their home lift.",
+          "role": "Villa Owner"
+        },
+        "aurel": {
+          "quote": "I am very pleased with Canaj Lift's service. Their elevators are quiet and reliable, and their customer service is always ready to help.",
+          "role": "Mechanical Engineer"
+        },
+        "blerina": {
+          "quote": "We chose Canaj Lift to modernize our elevator and are delighted with the result. It is now faster, quieter and more efficient.",
+          "role": "Business Owner"
+        }
+      }
+    },
+    "faq": {
+      "eyebrow": "06 / Technical & Legal Questions",
+      "title": "Frequently Asked Questions (FAQ)",
+      "subtitle": "Questions about required documentation, installation timelines or maintenance contracts? Contact our engineering team.",
+      "items": {
+        "documents": {
+          "question": "What documents do I need to install an elevator?",
+          "answer": "You need a building permit for the property that specifies and includes the elevator installation."
+        },
+        "products": {
+          "question": "What types of elevators do you offer?",
+          "answer": "We offer passenger elevators (electric and hydraulic), freight elevators and platforms, car elevators, home lifts, escalators and moving walkways, stairlifts, and industrial elevators."
+        },
+        "maintenance": {
+          "question": "What is included in your maintenance service?",
+          "answer": "We create tailored preventive maintenance plans for over 400 elevators, regularly inspect safety components and provide 24/7 emergency service backed by a permanent stock of original spare parts."
+        },
+        "modernization": {
+          "question": "Do you modernize existing elevators?",
+          "answer": "Yes. We provide complete modernization through digital upgrades, process automation and replacement of worn components to meet current European standards."
+        },
+        "quote": {
+          "question": "How can I get a quote for an elevator?",
+          "answer": "Contact us through our contact page, call +355 69 604 2852 or email info{'@'}canajlift.al to arrange a technical assessment of your project."
+        }
+      }
+    },
+    "cta": {
+      "eyebrow": "Ready for your project?",
+      "title": "An identity that rises above the ordinary.",
+      "description": "Contact us today for a technical consultation and a tailored quote for elevator installation, modernization or maintenance.",
+      "primaryButton": "Request a quote"
+    }
+  },
+  "nav": {
+    "brand": "Canaj Lift",
+    "mainMenu": "Main navigation",
+    "products": "Products",
+    "services": "Services",
+    "about": "About Us",
+    "projects": "Projects",
+    "contact": "Contact",
+    "login": "Log in",
+    "openMenu": "Open main menu",
+    "closeMenu": "Close menu"
+  },
+  "products": {
+    "passenger": "Passenger Elevators",
+    "passengerDescription": "Passenger elevators for comfortable and safe transportation",
+    "goods": "Freight Elevators",
+    "goodsDescription": "Freight elevators for the safe and efficient transport of goods",
+    "car": "Car Elevators",
+    "carDescription": "Modern car elevators for efficient parking",
+    "home": "Home Elevators",
+    "homeDescription": "Home elevators bringing comfort and luxury to your home",
+    "stairlift": "Stairlifts",
+    "stairliftDescription": "Lifting platforms for safe and easy access on stairs",
+    "escalators": "Escalators and Moving Walkways",
+    "escalatorsDescription": "Solutions for shopping centres, airports and other public spaces",
+    "industrial": "Industrial Elevators",
+    "industrialDescription": "Hydraulic elevators for industrial use"
+  },
+  "services": {
+    "installation": "Installation",
+    "installationDescription": "Installation carried out in accordance with manufacturer guidance and CE directives.",
+    "maintenance": "Maintenance",
+    "maintenanceDescription": "Maintenance in accordance with manufacturer guidance and CE directives.",
+    "modernization": "Modernization",
+    "modernizationDescription": "Modernization in accordance with manufacturer guidance and CE directives.",
+    "spareParts": "Spare Parts",
+    "sparePartsDescription": "Spare parts for reliable, long-lasting operation."
+  },
+  "actions": {
+    "demo": "Watch the demo",
+    "contact": "Contact us"
+  },
+  "common": {
+    "home": "Home",
+    "goTo": "Go to {page}",
+    "theme": "Theme",
+    "language": "Language",
+    "light": "Light",
+    "dark": "Dark",
+    "device": "Device",
+    "seeMore": "View technical details",
+    "exploreService": "Learn more"
+  },
+  "pages": {
+    "home": "Welcome to Canaj Lift",
+    "about": "About Us",
+    "projects": "Projects",
+    "contact": "Contact",
+    "car": "Car Elevators",
+    "goods": "Freight Elevators",
+    "passenger": "Passenger Elevators",
+    "homeLift": "Home Elevators",
+    "industrial": "Industrial Elevators",
+    "escalators": "Escalators and Moving Walkways",
+    "stairlift": "Stairlifts",
+    "installation": "Installation",
+    "maintenance": "Maintenance",
+    "modernization": "Modernization",
+    "spareParts": "Spare Parts"
+  },
+  "loginPage": {
+    "status": "Page under construction",
+    "title": "We are preparing the sign-in page.",
+    "description": "We are working to complete this page. Sign-in to your Canaj Lift account will be available soon.",
+    "homeCta": "Back to home"
+  },
+  "error": {
+    "backHome": "Go back home"
+  }
+}

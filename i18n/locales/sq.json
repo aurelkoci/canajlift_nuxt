@@ -1,0 +1,1150 @@
+{
+  "seo": {
+    "home": {
+      "title": "Canaj Lift | Ashensorë, Instalim, Mirëmbajtje 24/7 & Modernizim",
+      "description": "Canaj Lift ofron mbi 20 vjet përvojë në instalimin, mirëmbajtjen dhe modernizimin e ashensorëve pasagjerësh, mallrash, makinash dhe homelift në Shqipëri."
+    },
+    "passenger": {
+      "title": "Ashensorë Pasagjerësh | Canaj Lift",
+      "description": "Ashensorë pasagjerësh elektrikë dhe hidraulikë për ndërtesa rezidenciale dhe komerciale. Zbuloni zgjidhjet e Canaj Lift."
+    },
+    "freight": {
+      "title": "Ashensorë Mallrash dhe Platforma | Canaj Lift",
+      "description": "Ashensorë dhe platforma elektrike e hidraulike për transportin e ngarkesave të rënda në ambiente industriale dhe komerciale."
+    },
+    "carLift": {
+      "title": "Ashensorë Makinash | Canaj Lift",
+      "description": "Ashensorë makinash elektrikë dhe hidraulikë për parkim dhe transport efikas të automjeteve në ndërtesa rezidenciale, komerciale dhe industriale."
+    },
+    "villaLift": {
+      "title": "Ashensorë Vilash (Homelift) | Canaj Lift",
+      "description": "Homelift elegant, i sigurt dhe me efikasitet energjetik për shtëpi dhe vila. Zbuloni zgjidhjet e personalizuara të Canaj Lift."
+    },
+    "stairliftPage": {
+      "title": "Platforma Ngritëse për Shkallë | Canaj Lift",
+      "description": "Platforma ngritëse për shkallë që përmirësojnë aksesin për personat me lëvizshmëri të kufizuar. Zgjidhje të përshtatura nga Canaj Lift."
+    },
+    "escalators": {
+      "title": "Shkallë dhe Tapete Lëvizëse | Canaj Lift",
+      "description": "Shkallë dhe tapete lëvizëse për qendra tregtare, aeroporte, hotele dhe ndërtesa publike. Projektim dhe instalim nga Canaj Lift."
+    },
+    "industrial": {
+      "title": "Ashensorë Industrialë | Canaj Lift",
+      "description": "Ashensorë industrialë të përshtatur për fabrika, magazina dhe mjedise prodhimi. Zgjidhje të projektuara sipas kërkesave të objektit."
+    },
+    "installation": {
+      "title": "Instalim Ashensorësh | Canaj Lift",
+      "description": "Instalim profesional ashensorësh nga 12 ekipe të specializuara. Canaj Lift instalon mesatarisht 20 ashensorë në muaj, me fokus te siguria, cilësia dhe afatet."
+    },
+    "maintenance": {
+      "title": "Mirëmbajtje Ashensorësh 24/7 | Canaj Lift",
+      "description": "Mirëmbajtje profesionale dhe servis emergjent 24/7 për ashensorë. Mbi 400 ashensorë nën mirëmbajtjen e Canaj Lift."
+    },
+    "spareParts": {
+      "title": "Pjesë Këmbimi Origjinale për Ashensorë | Canaj Lift",
+      "description": "Furnizim i shpejtë me pjesë këmbimi origjinale për ashensorë nga stoku i Canaj Lift. Çdo pjesë kontrollohet dhe testohet para instalimit."
+    },
+    "about": {
+      "title": "Rreth Nesh | Canaj Lift",
+      "description": "Njihuni me Canaj Lift: mbi 20 vjet përvojë, mbi 40 profesionistë dhe shërbime instalimi, mirëmbajtjeje e modernizimi ashensorësh në Shqipëri."
+    },
+    "projects": {
+      "title": "Projektet | Canaj Lift",
+      "description": "Faqja e projekteve të Canaj Lift është në përditësim. Së shpejti do të publikojmë projektet tona të ashensorëve."
+    },
+    "contact": {
+      "title": "Kontakt | Canaj Lift",
+      "description": "Faqja e kontaktit e Canaj Lift është në ndërtim. Së shpejti do të mund të na kontaktoni këtu."
+    },
+    "login": {
+      "title": "Hyrja | Canaj Lift",
+      "description": "Faqja e hyrjes në llogarinë Canaj Lift është në ndërtim dhe do të jetë e disponueshme së shpejti."
+    },
+    "modernization": {
+      "title": "Modernizim Ashensorësh | Canaj Lift",
+      "description": "Përmirësoni performancën, efikasitetin dhe sigurinë e ashensorit tuaj me shërbimet e modernizimit të Canaj Lift."
+    }
+  },
+  "installationPage": {
+    "eyebrow": "Shërbimet Canaj Lift",
+    "title": "Instalim Profesional i Ashensorëve",
+    "intro": "Në Canaj Lift, ne ofrojmë një gamë të gjerë shërbimesh instalimi për ashensorët, duke përfshirë:",
+    "teamStat": "Grupe të specializuara instalimi",
+    "servicesEyebrow": "Instalim nga fillimi në përfundim",
+    "servicesTitle": "Ekspertizë, kapacitet dhe përkushtim në çdo projekt.",
+    "imageAlt": "Instalim profesional ashensori nga ekipi Canaj Lift",
+    "imageCaption": "Shikoni projektet e realizuara nga Canaj Lift.",
+    "imageLinkLabel": "Shikoni projektet e realizuara nga Canaj Lift",
+    "services": {
+      "teams": {
+        "title": "12 Grupe Instalimi",
+        "description": "Me 12 ekipe të specializuara, ne kemi kapacitetin për të menaxhuar projekte të çdo shkalle kompleksiteti, duke garantuar një instalim të shpejtë dhe efikas të ashensorit tuaj.",
+        "highlight": "12 ekipe, 1 qëllim: Instalimi juaj i përsosur."
+      },
+      "expertise": {
+        "title": "Ekspertizë dhe Profesionalizëm",
+        "description": "Ekipi ynë i inxhinierëve dhe teknikëve të certifikuar është i përkushtuar për të ofruar shërbimin më të lartë të instalimit, duke përdorur teknologji të fundit dhe procedura të sigurta për të siguruar një instalim të qëndrueshëm dhe të sigurt.",
+        "highlight": "Eksperiencë e Certifikuar, Instalimi i Garantuar."
+      },
+      "capacity": {
+        "title": "Kapaciteti i Instalimit",
+        "description": "Me aftësinë tonë për të instaluar mesatarisht 20 ashensorë në muaj, ne sigurojmë që projekti juaj do të përfundojë në kohën e duhur dhe me cilësinë më të lartë.",
+        "highlight": "20 ashensorë në muaj, projekti juaj përfundon në kohë."
+      },
+      "custom": {
+        "title": "Zgjidhje të Personalizuara",
+        "description": "Ne punojmë ngushtë me ju për të kuptuar nevojat tuaja specifike dhe për të hartuar një plan instalimi që i përshtatet projektit tuaj në mënyrë perfekte.",
+        "highlight": "Zgjidhje sipas nevojave tuaja, instalim i përsosur për projektin tuaj."
+      },
+      "support": {
+        "title": "Mbështetje e Vazhdueshme",
+        "description": "Ne ofrojmë mbështetje teknike dhe trajnim pas instalimit për të siguruar që ashensori juaj të funksionojë në mënyrë optimale për një kohë të gjatë.",
+        "highlight": "Mbështetje përtej instalimit, performancë optimale gjatë gjithë kohës."
+      },
+      "standards": {
+        "title": "Përputhje me Standardet",
+        "description": "Çdo instalim kryhet duke respektuar rreptësisht standardet ndërkombëtare të sigurisë dhe cilësisë.",
+        "highlight": "Siguri dhe cilësi, standardet tona ndërkombëtare."
+      }
+    },
+    "closingEyebrow": "Partneri juaj i instalimit",
+    "closingTitle": "Instalim i shpejtë, i sigurt dhe profesional.",
+    "closingText": "Besoni tek Canaj Lift për një instalim të shpejtë, të sigurt dhe profesional të ashensorit tuaj, i cili do të plotësojë të gjitha nevojat tuaja.",
+    "contactCta": "Na kontaktoni"
+  },
+  "maintenancePage": {
+    "eyebrow": "Shërbimet Canaj Lift",
+    "title": "Mirëmbajtje Profesionale e Ashensorëve",
+    "intro": "Në Canaj Lift, ofrojmë shërbime të specializuara për mirëmbajtjen e ashensorëve, duke përfshirë:",
+    "clientStat": "Ashensorë aktualisht në mirëmbajtjen tonë",
+    "servicesEyebrow": "Kujdes i vazhdueshëm për ashensorin tuaj",
+    "servicesTitle": "Shërbim i besueshëm, ekspertizë dhe gatishmëri 24/7.",
+    "imageAlt": "Shërbim profesional për mirëmbajtjen e ashensorëve nga Canaj Lift",
+    "imageCaption": "Shikoni projektet e realizuara nga Canaj Lift.",
+    "imageLinkLabel": "Shikoni projektet e realizuara nga Canaj Lift",
+    "services": {
+      "expertise": {
+        "title": "Ekspertizë dhe Profesionalizëm",
+        "description": "Ekipi ynë i inxhinierëve dhe teknikëve të certifikuar përdor teknologji moderne dhe procedura të sigurta për të ofruar shërbim profesional dhe të besueshëm për ashensorin tuaj.",
+        "highlight": "Eksperiencë e certifikuar, shërbim i besueshëm."
+      },
+      "plans": {
+        "title": "Planifikim i Personalizuar i Mirëmbajtjes",
+        "description": "Ekipi ynë teknik zhvillon plane të personalizuara të mirëmbajtjes për secilin klient, duke siguruar që ashensorët të mbeten në gjendje optimale dhe të sigurt për përdoruesit.",
+        "highlight": "Çdo ashensor është unik, çdo plan mirëmbajtjeje i përshtatur për ju."
+      },
+      "emergency": {
+        "title": "Servis dhe Riparim Emergjent 24/7",
+        "description": "Ne ofrojmë shërbim të gatshëm 24/7 për emergjenca dhe riparime të shpejta, duke punuar me profesionalizëm për të zgjidhur çdo problem në kohë të shkurtër.",
+        "highlight": "Kurdoherë, kudo, ne jemi aty për ju."
+      },
+      "specialists": {
+        "title": "Ekspertizë e Specializuar",
+        "description": "Teknikët tanë të kualifikuar dhe të certifikuar janë të pajisur me njohuritë dhe mjetet e nevojshme për të ofruar zgjidhje të shpejta dhe efikase për problemet e ashensorit tuaj.",
+        "highlight": "Ekspertë të gatshëm, zgjidhje të shpejta."
+      },
+      "monitoring": {
+        "title": "Monitorim në Distancë",
+        "description": "Teknologjia e avancuar na lejon të monitorojmë ashensorin tuaj në kohë reale dhe të identifikojmë probleme të mundshme përpara se ato të shfaqen.",
+        "highlight": "Monitorim 24/7, parandalim i problemeve."
+      },
+      "reporting": {
+        "title": "Raportim Transparent",
+        "description": "Ju merrni raporte të detajuara mbi gjendjen e ashensorit dhe punimet e kryera, duke ju mbajtur të informuar në çdo hap.",
+        "highlight": "Raportim transparent, qetësi mendore."
+      }
+    },
+    "closingEyebrow": "Besoni tek Canaj Lift",
+    "closingTitle": "Besimi juaj, shërbimi ynë.",
+    "closingText": "Besoni tek ne për një mirëmbajtje profesionale dhe jetëgjatësi të shtuar të ashensorit tuaj!",
+    "contactCta": "Na kontaktoni"
+  },
+  "modernizationPage": {
+    "eyebrow": "Shërbimet Canaj Lift",
+    "title": "Modernizim i Ashensorëve",
+    "intro": "Në Canaj Lift, ne jemi të përkushtuar për të përmirësuar ashensorët tuaj ekzistues përmes modernizimit, duke përfshirë:",
+    "stat": "Teknologji moderne për performancë, efikasitet dhe siguri më të lartë.",
+    "servicesEyebrow": "Përmirësoni ashensorin tuaj",
+    "servicesTitle": "Teknologji, automatizim dhe këshillim profesional.",
+    "imageAlt": "Ashensor i modernizuar nga Canaj Lift",
+    "imageCaption": "Shikoni projektet e realizuara nga Canaj Lift.",
+    "imageLinkLabel": "Shikoni projektet e realizuara nga Canaj Lift",
+    "services": {
+      "technology": {
+        "title": "Teknologji e Re dhe Përmirësime Efikase",
+        "description": "Ne ofrojmë zgjidhje moderne dhe teknologji të fundit për të përmirësuar performancën, efikasitetin dhe sigurinë e ashensorëve ekzistues.",
+        "highlight": "Ashensor i vjetër? Ne e bëjmë si të ri me teknologjinë më të fundit."
+      },
+      "automation": {
+        "title": "Përditësimi i Kompjuterizuar dhe Automatizimi",
+        "description": "Duke përdorur sisteme të avancuara kompjuterike dhe automatizimin e proceseve, ne sigurojmë që ashensorët tuaj të jenë në përputhje me standardet e fundit industriale dhe të ofrojnë një përvojë më të mirë për përdoruesit.",
+        "highlight": "Modernizim inteligjent për efikasitet dhe komoditet."
+      },
+      "support": {
+        "title": "Mbështetje dhe Këshillim Profesional",
+        "description": "Ekipi ynë i specializuar ofron këshillim dhe mbështetje të vazhdueshme për zgjedhjen e zgjidhjeve të përshtatshme për modernizimin e sistemeve të ashensorëve, duke përfshirë financimin dhe implementimin e tyre.",
+        "highlight": "Ekspertët tanë ju udhëheqin drejt zgjidhjes më të mirë për nevojat tuaja."
+      }
+    },
+    "closingEyebrow": "Besoni tek Canaj Lift",
+    "closingTitle": "Ashensorë më të mirë, jetëgjatësi më e madhe.",
+    "closingText": "Besoni tek ne për një modernizim profesional që përmirëson performancën dhe zgjat jetëgjatësinë e ashensorit tuaj!",
+    "contactCta": "Na kontaktoni"
+  },
+  "sparePartsPage": {
+    "eyebrow": "Shërbimet Canaj Lift",
+    "title": "Pjesë Këmbimi Origjinale për Ashensorë",
+    "intro": "Në Canaj Lift, ofrojmë pjesë këmbimi origjinale dhe furnizim të shpejtë nga stoku ynë i përhershëm, për të mbështetur funksionimin e besueshëm dhe jetëgjatë të ashensorit tuaj.",
+    "requestCta": "Kërkoni pjesë këmbimi",
+    "iconAlt": "Ikona e pjesëve të këmbimit Canaj Lift",
+    "visualEyebrow": "Pjesë këmbimi",
+    "visualTitle": "Përbërësit e duhur. Cilësi e besueshme.",
+    "visualText": "Përzgjedhja dhe furnizimi i pjesëve mbështeten nga përvoja jonë në shërbimin e ashensorëve.",
+    "benefitsEyebrow": "Furnizim dhe cilësi",
+    "benefitsTitle": "Pjesët e duhura, me kujdes në çdo hap.",
+    "benefits": {
+      "original": {
+        "title": "Komponentë Origjinalë",
+        "description": "Ofrojmë komponentë origjinalë për të mbështetur funksionimin e besueshëm të ashensorëve.",
+        "highlight": "Pjesë origjinale për performancë të besueshme."
+      },
+      "stock": {
+        "title": "Furnizim i Shpejtë",
+        "description": "Stoku ynë i përhershëm na ndihmon të ofrojmë furnizim të shpejtë me pjesët e nevojshme.",
+        "highlight": "Pjesë këmbimi të disponueshme kur ju duhen."
+      },
+      "quality": {
+        "title": "Kontroll dhe Testim",
+        "description": "Çdo pjesë kontrollohet dhe testohet për siguri përpara instalimit.",
+        "highlight": "Çdo pjesë testohet për siguri maksimale para instalimit."
+      }
+    },
+    "closingEyebrow": "Mbështetje për ashensorin tuaj",
+    "closingTitle": "Pjesë të besueshme. Shërbim profesional.",
+    "closingText": "Na kontaktoni për të gjetur pjesët e këmbimit që ju nevojiten dhe për të marrë mbështetjen e ekipit Canaj Lift.",
+    "contactCta": "Na kontaktoni"
+  },
+  "contactPage": {
+    "status": "Faqja në ndërtim",
+    "title": "Po përgatisim faqen e kontaktit.",
+    "description": "Po punojmë për ta përfunduar këtë faqe. Së shpejti do të gjeni këtu mënyrat për të kontaktuar ekipin Canaj Lift.",
+    "homeCta": "Kthehu në kryefaqe"
+  },
+  "projectsPage": {
+    "status": "Faqja në ndërtim",
+    "title": "Projektet tona po përgatiten.",
+    "description": "Po punojmë për të përfunduar këtë faqe dhe për të prezantuar projektet tona të realizuara. Kthehuni së shpejti për t'i parë.",
+    "progressLabel": "Faqja po përgatitet",
+    "homeCta": "Kthehu në kryefaqe",
+    "contactCta": "Na kontaktoni"
+  },
+  "aboutPage": {
+    "eyebrow": "Rreth Canaj Lift",
+    "title": "20 Vjet Ngritje, Besim dhe Siguri.",
+    "intro": "Mirësevini në Canaj Lift, kompania juaj e besuar për zgjidhje të avancuara në fushën e ashensorëve. Prej më shumë se 20 vitesh, kemi ndërtuar një reputacion të fortë për cilësi dhe shërbim të shkëlqyer, duke u bërë një nga liderët në industrinë e ashensorëve në Shqipëri.",
+    "cta": "Njihuni me shërbimet tona",
+    "images": {
+      "elevator": "Ashensor në një objekt modern",
+      "team": "Flota e shërbimit teknik Canaj Lift",
+      "details": "Detaje të kabinës dhe instalimit të ashensorit",
+      "project": "Projekt komercial ashensori"
+    },
+    "whoEyebrow": "Ekspertizë që ngre lart",
+    "whoTitle": "Kush jemi ne?",
+    "whoText": "Me një staf të përkushtuar prej më shumë se 40 profesionistësh, Canaj Lift sjell ekspertizë dhe përvojë të thellë në çdo projekt. Besojmë në zhvillimin e vazhdueshëm të ekipit tonë, që klientët të përfitojnë nga teknologjitë dhe praktikat më të mira në industrinë e ashensorëve.",
+    "whatTitle": "Çfarë bëjmë?",
+    "whatIntro": "Ofrojmë shërbime të plota për të plotësuar nevojat e klientëve tanë:",
+    "services": {
+      "installation": {
+        "title": "Instalimi i Ashensorëve",
+        "description": "Instalojmë mesatarisht 20 ashensorë çdo muaj, sipas standardeve të larta të cilësisë dhe sigurisë. Përveç projekteve tona, realizojmë instalime edhe për kompani të tjera të ashensorëve."
+      },
+      "maintenance": {
+        "title": "Mirëmbajtja dhe Riparimi",
+        "description": "Me mbi 400 ashensorë në mirëmbajtje, ofrojmë shërbime për funksionim të sigurt dhe të pandërprerë, duke minimizuar ndërprerjet dhe zgjatur jetëgjatësinë e pajisjeve."
+      },
+      "modernization": {
+        "title": "Modernizimi dhe Përmirësimi",
+        "description": "Përmirësojmë performancën dhe sigurinë e ashensorëve ekzistues me teknologji moderne dhe zgjidhje të përshtatura sipas projektit."
+      }
+    },
+    "stats": {
+      "experience": "Përvojë në industrinë e ashensorëve.",
+      "team": "Profesionistë të përkushtuar për çdo projekt.",
+      "maintenance": "Ashensorë aktualisht në mirëmbajtje."
+    },
+    "valuesEyebrow": "Parimet tona",
+    "valuesTitle": "Vlerat tona",
+    "valuesIntro": "Suksesi ynë vjen nga përkushtimi ndaj cilësisë, klientëve dhe profesionalizmit.",
+    "values": {
+      "quality": {
+        "title": "Cilësi dhe Inovacion",
+        "description": "Përdorim teknologji të avancuar për të ofruar ashensorë efikasë, të sigurt dhe të besueshëm."
+      },
+      "client": {
+        "title": "Shërbim ndaj Klientit",
+        "description": "Dëgjojmë dhe kuptojmë nevojat tuaja për të ofruar zgjidhje të personalizuara dhe shërbim të jashtëzakonshëm."
+      },
+      "professionalism": {
+        "title": "Përkushtim dhe Profesionalizëm",
+        "description": "Ekipi ynë i trajnuar dhe i certifikuar punon me profesionalizëm në çdo projekt dhe shërbim."
+      }
+    },
+    "partnersTitle": "Bashkëpunëtorët tanë",
+    "closingEyebrow": "Canaj Lift",
+    "closingTitle": "Cilësia që ju ngre lart, shërbimi që ju mban atje.",
+    "closingText": "Nga instalimi dhe mirëmbajtja te modernizimi, ekipi ynë është pranë jush në çdo hap të projektit.",
+    "contactCta": "Na kontaktoni"
+  },
+  "villaLift": {
+    "intro": {
+      "category": "Prezantim",
+      "title": "Ashensorë për Vila (Homelift)",
+      "description": "Në Canaj Lift, sjellim komoditet dhe luks në shtëpinë tuaj me ashensorët për vila, të njohur si homelift. Ata ofrojnë transport vertikal të rehatshëm, të sigurt dhe estetik, përmirësojnë aksesin në të gjitha katet dhe rrisin vlerën e pronës."
+    },
+    "design": {
+      "title": "Dizajn i Personalizuar dhe Estetikë Moderne",
+      "description": "Ashensorët tanë për vila përshtaten me shijet dhe nevojat individuale të çdo klienti. Ofrojmë një gamë dizajnesh dhe materialesh që homelift-i juaj të harmonizohet me stilin dhe dekorin e shtëpisë:",
+      "items": [
+        {
+          "title": "Dizajn elegant dhe modern:",
+          "text": " Homelift-et tona janë shtesë estetike për shtëpinë, me pamje të sofistikuar dhe bashkëkohore."
+        },
+        {
+          "title": "Opsione të personalizuara:",
+          "text": " Kabina, dyert dhe panelet e kontrollit mund të përshtaten sipas kërkesave tuaja."
+        }
+      ]
+    },
+    "safety": {
+      "title": "Siguri dhe Besueshmëri",
+      "description": "Siguria është prioriteti ynë. Homelift-et tona pajisen me sisteme të avancuara për të garantuar përdorim të sigurt dhe të besueshëm:",
+      "items": [
+        {
+          "title": "Sisteme sigurie të integruara:",
+          "text": " Sensorët, frenat e emergjencës dhe komunikimi emergjent ofrojnë mbrojtje për përdoruesit."
+        },
+        {
+          "title": "Certifikime dhe standarde të larta:",
+          "text": " Homelift-et ndërtohen sipas standardeve të industrisë dhe certifikohen për siguri e cilësi."
+        }
+      ]
+    },
+    "efficiency": {
+      "title": "Efikasitet Energjetik dhe Teknologji e Avancuar",
+      "description": "Ashensorët për vila janë projektuar për konsum efikas të energjisë dhe performancë të lartë:",
+      "items": [
+        {
+          "title": "Motorizim efikas:",
+          "text": " Motorët dhe sistemet e avancuara ulin konsumin e energjisë dhe kostot e operimit."
+        },
+        {
+          "title": "Teknologji e qëndrueshme:",
+          "text": " Përdorim teknologji dhe materiale të qëndrueshme për të minimizuar ndikimin në mjedis."
+        }
+      ]
+    },
+    "projectsCaption": "Shiko projektet e realizuara.",
+    "tailored": {
+      "title": "Zgjidhje të Përshtatura për Çdo Vilë",
+      "description": "Qoftë duke ndërtuar një vilë të re apo duke rinovuar një ekzistuese, ofrojmë zgjidhje të përshtatura sipas nevojave tuaja:",
+      "items": [
+        {
+          "title": "Instalim në ndërtesa ekzistuese:",
+          "text": " Homelift-et tona mund të instalohen në ndërtesa ekzistuese pa kërkuar ndryshime të mëdha strukturore."
+        },
+        {
+          "title": "Ndërtim i ri:",
+          "text": " Bashkëpunojmë me arkitektët dhe ndërtuesit për integrim të përsosur në projektimin e shtëpisë suaj."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Avantazhet e Homelift",
+      "items": [
+        {
+          "title": "Akses i përmirësuar:",
+          "text": " Homelift-i mundëson lëvizje të lehtë dhe të sigurt në të gjitha katet, përfshirë personat me lëvizshmëri të kufizuar."
+        },
+        {
+          "title": "Rritja e vlerës së pronës:",
+          "text": " Një homelift shton vlerë dhe atraktivitet, duke sjellë luks dhe komoditet në shtëpi."
+        },
+        {
+          "title": "Komoditet i përditshëm:",
+          "text": " Lëvizni lehtësisht nëpër shtëpi dhe shijoni më shumë rehati çdo ditë."
+        }
+      ]
+    }
+  },
+  "stairliftPage": {
+    "intro": {
+      "category": "Aksesueshmëri",
+      "title": "Platforma Ngritëse për Shkallë",
+      "description": "Platforma ngritëse për shkallë ndihmon personat me lëvizshmëri të kufizuar të kalojnë mes kateve me më shumë pavarësi. Canaj Lift ofron zgjidhje të projektuara sipas hapësirës, konfigurimit të shkallëve dhe nevojave të përdoruesit."
+    },
+    "platform": {
+      "title": "Lëvizje e Lehtë në Shkallë",
+      "description": "Platforma lëviz përgjatë shkallëve dhe mund të përshtatet për përdorim me karrocë, sipas konfigurimit të projektit.",
+      "items": [
+        {
+          "title": "Përshtatje me shkallët:",
+          "text": " Zgjidhja planifikohet sipas formës dhe përmasave të shkallëve në ambient."
+        },
+        {
+          "title": "Akses për karrocë:",
+          "text": " Platforma krijon një mënyrë praktike për të kaluar mes kateve pa pasur nevojë të përdoren shkallët."
+        }
+      ]
+    },
+    "safety": {
+      "title": "Siguri dhe Kontroll",
+      "description": "Pajisja zgjidhet dhe instalohet duke marrë parasysh përdorimin e përditshëm dhe kushtet konkrete të objektit.",
+      "items": [
+        {
+          "title": "Përdorim i kontrolluar:",
+          "text": " Komandat e qarta e bëjnë më të thjeshtë nisjen dhe ndalimin e platformës."
+        },
+        {
+          "title": "Instalim profesional:",
+          "text": " Vlerësimi dhe instalimi nga specialistë ndihmojnë që zgjidhja t'i përshtatet hapësirës dhe përdoruesit."
+        }
+      ]
+    },
+    "installation": {
+      "title": "Projektim për Hapësirën Ekzistuese",
+      "description": "Çdo projekt nis me vlerësimin e shkallëve dhe të aksesit në hyrje e dalje, për të përcaktuar zgjidhjen e përshtatshme.",
+      "items": [
+        {
+          "title": "Vlerësim i vendit:",
+          "text": " Kontrollohen konfigurimi i shkallëve, hapësira e disponueshme dhe mënyra e përdorimit."
+        },
+        {
+          "title": "Zgjidhje sipas projektit:",
+          "text": " Përmasat dhe vendosja përcaktohen në përputhje me kushtet e objektit dhe nevojat e përdoruesit."
+        }
+      ]
+    },
+    "imageCaption": "Shiko projektet e realizuara.",
+    "tailored": {
+      "title": "Zgjidhja e Duhur për Çdo Objekt",
+      "description": "Nevojat ndryshojnë nga një ambient te tjetri. Ekipi ynë ju ndihmon të vlerësoni mundësitë dhe të zgjidhni platformën e përshtatshme.",
+      "items": [
+        {
+          "title": "Për ndërtesa ekzistuese:",
+          "text": " Vlerësojmë shkallët dhe hapësirën për të planifikuar instalimin me sa më pak ndërhyrje të nevojshme."
+        },
+        {
+          "title": "Këshillim për projektin:",
+          "text": " Ju udhëzojmë për zgjedhjen e zgjidhjes, vendosjen dhe kërkesat e instalimit."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Përfitimet e Platformës Ngritëse",
+      "items": [
+        {
+          "title": "Më shumë pavarësi:",
+          "text": " Ndihmon përdoruesin të lëvizë mes kateve me më pak varësi nga ndihma e të tjerëve."
+        },
+        {
+          "title": "Akses më i mirë:",
+          "text": " Përmirëson përdorshmërinë e kateve për personat me lëvizshmëri të kufizuar."
+        },
+        {
+          "title": "Zgjidhje e përshtatur:",
+          "text": " Projektohet duke marrë parasysh objektin dhe nevojat specifike të përdoruesit."
+        }
+      ]
+    }
+  },
+  "escalators": {
+    "intro": {
+      "category": "Transport Publik dhe Komercial",
+      "title": "Shkallë dhe Tapete Lëvizëse",
+      "description": "Shkallët dhe tapetet lëvizëse mundësojnë lëvizje të vazhdueshme të njerëzve në ndërtesa me fluks të lartë. Canaj Lift ofron zgjidhje të përshtatura për qendra tregtare, aeroporte, hotele, stacione dhe objekte të tjera publike e komerciale."
+    },
+    "escalators": {
+      "title": "Shkallë Lëvizëse",
+      "description": "Shkallët lëvizëse lidhin nivele të ndryshme dhe ndihmojnë në organizimin e qarkullimit të vizitorëve në ambientet me shumë kate.",
+      "items": [
+        {
+          "title": "Për ndërtesa me fluks të lartë:",
+          "text": " Zgjidhje për qendra tregtare, aeroporte, hotele dhe hapësira publike."
+        },
+        {
+          "title": "Përshtatje me objektin:",
+          "text": " Konfigurimi përcaktohet sipas planimetrisë, lartësisë mes kateve dhe nevojave të qarkullimit."
+        }
+      ]
+    },
+    "walkways": {
+      "title": "Tapete Lëvizëse",
+      "description": "Tapetet lëvizëse lehtësojnë udhëtimin në korridore të gjata ose ndërmjet zonave të një objekti, duke mbështetur rrjedhën e vizitorëve.",
+      "items": [
+        {
+          "title": "Lëvizje përgjatë distancave:",
+          "text": " Të përshtatshme për korridore, terminale dhe hapësira të gjera me qarkullim të vazhdueshëm."
+        },
+        {
+          "title": "Konfigurime të ndryshme:",
+          "text": " Zgjidhja mund të planifikohet për lëvizje horizontale ose të pjerrët, sipas projektit."
+        }
+      ]
+    },
+    "installation": {
+      "title": "Planifikim dhe Instalimi",
+      "description": "Përzgjedhja e pajisjes nis me vlerësimin e objektit, fluksit të pritshëm dhe hapësirës së disponueshme.",
+      "items": [
+        {
+          "title": "Vlerësim teknik:",
+          "text": " Shqyrtohen vendndodhja, qarkullimi i përdoruesve dhe kushtet e instalimit."
+        },
+        {
+          "title": "Integrim në projekt:",
+          "text": " Koordinojmë zgjidhjen me kërkesat arkitekturore dhe funksionale të ndërtesës."
+        }
+      ]
+    },
+    "imageCaption": "Shiko projektet e realizuara.",
+    "tailored": {
+      "title": "Zgjidhje sipas Nevojave të Objektit",
+      "description": "Çdo ndërtesë ka kërkesa të veçanta për hapësirën dhe qarkullimin. Ne ju ndihmojmë të përcaktoni llojin dhe konfigurimin e përshtatshëm.",
+      "items": [
+        {
+          "title": "Për ndërtesa të reja:",
+          "text": " Planifikimi në fazat e projektimit ndihmon integrimin e pajisjeve në qarkullimin e ndërtesës."
+        },
+        {
+          "title": "Për objekte ekzistuese:",
+          "text": " Vlerësojmë hapësirën dhe kushtet teknike për të identifikuar mundësitë e instalimit ose modernizimit."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Përfitimet Kryesore",
+      "items": [
+        {
+          "title": "Qarkullim më i lehtë:",
+          "text": " Ndihmojnë lëvizjen e vizitorëve mes kateve ose përgjatë hapësirave të gjata."
+        },
+        {
+          "title": "Përdorim praktik i hapësirës:",
+          "text": " Integrimi i tyre mund të përmirësojë organizimin e lëvizjes në ndërtesa publike dhe komerciale."
+        },
+        {
+          "title": "Zgjidhje të përshtatura:",
+          "text": " Lloji dhe konfigurimi përzgjidhen sipas kërkesave të projektit dhe objektit."
+        }
+      ]
+    }
+  },
+  "industrial": {
+    "intro": {
+      "category": "Zgjidhje Industriale",
+      "title": "Ashensorë Industrialë",
+      "description": "Ashensorët industrialë ndihmojnë në transportin e personelit dhe ngarkesave ndërmjet niveleve të objekteve të prodhimit, magazinave dhe hapësirave logjistike. Canaj Lift planifikon zgjidhje sipas ngarkesës, intensitetit të përdorimit dhe kushteve të ambientit."
+    },
+    "elevators": {
+      "title": "Ashensorë për Mjedise Industriale",
+      "description": "Projektuar për të mbështetur operacionet e përditshme në fabrika, punishte dhe objekte logjistike.",
+      "items": [
+        {
+          "title": "Për përdorim intensiv:",
+          "text": " Konfigurimi përshtatet me ritmin e punës dhe kërkesat e objektit."
+        },
+        {
+          "title": "Sipas ngarkesës dhe hapësirës:",
+          "text": " Kapaciteti dhe përmasat përcaktohen në bazë të mallrave dhe kushteve të instalimit."
+        }
+      ]
+    },
+    "freight": {
+      "title": "Transport i Mallrave dhe Pajisjeve",
+      "description": "Zgjidhjet për mallra mundësojnë lëvizjen vertikale të ngarkesave, materialeve dhe pajisjeve brenda objektit.",
+      "items": [
+        {
+          "title": "Për magazina dhe prodhim:",
+          "text": " Ndihmojnë në transportin e mallrave ndërmjet zonave të punës dhe niveleve të objektit."
+        },
+        {
+          "title": "Përshtatje me procesin:",
+          "text": " Zgjidhja planifikohet duke marrë parasysh mënyrën e ngarkimit dhe rrjedhën e punës."
+        }
+      ]
+    },
+    "installation": {
+      "title": "Planifikim Teknik dhe Instalimi",
+      "description": "Vlerësimi teknik ndihmon në përcaktimin e sistemit të përshtatshëm për objektin, ngarkesën dhe kushtet e punës.",
+      "items": [
+        {
+          "title": "Vlerësim i objektit:",
+          "text": " Shqyrtohen hapësira, nivelet, ngarkesa dhe intensiteti i pritshëm i përdorimit."
+        },
+        {
+          "title": "Integrim në operacione:",
+          "text": " Planifikohet vendosja për të mbështetur lëvizjen e personelit ose të mallrave në objekt."
+        }
+      ]
+    },
+    "imageCaption": "Shiko projektet e realizuara.",
+    "tailored": {
+      "title": "Zgjidhje për Kërkesat e Industrisë",
+      "description": "Çdo ambient industrial ka procese dhe kushte të ndryshme. Zgjidhja përcaktohet pas shqyrtimit të kërkesave të projektit dhe objektit.",
+      "items": [
+        {
+          "title": "Fabrika dhe punishte:",
+          "text": " Planifikojmë ashensorë sipas organizimit të zonave të prodhimit dhe nevojave të transportit."
+        },
+        {
+          "title": "Magazina dhe logjistikë:",
+          "text": " Përshtatim zgjidhjen me lëvizjen e mallrave, pajisjeve dhe materialeve ndërmjet niveleve."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Përfitimet e Ashensorëve Industrialë",
+      "items": [
+        {
+          "title": "Mbështetje për punën e përditshme:",
+          "text": " Lehtësojnë lëvizjen e personelit dhe ngarkesave në objekt."
+        },
+        {
+          "title": "Rrjedhë më e organizuar:",
+          "text": " Ndihmojnë në lidhjen e niveleve dhe zonave të ndryshme të punës."
+        },
+        {
+          "title": "Projektim sipas nevojës:",
+          "text": " Kapaciteti dhe konfigurimi përshtaten sipas kërkesave të përdorimit."
+        }
+      ]
+    }
+  },
+  "carLift": {
+    "intro": {
+      "category": "Prezantim",
+      "title": "Ashensorët për Makina",
+      "description": "Në Canaj Lift, ofrojmë zgjidhje të avancuara dhe të besueshme për parkimin dhe transportimin e makinave. Ashensorët tanë janë projektuar për ndërtesa komerciale, rezidenciale dhe industriale, duke mundësuar përdorim të lehtë dhe efikas të hapësirës. Ofrojmë ashensorë makinash elektrikë dhe hidraulikë."
+    },
+    "electric": {
+      "title": "Ashensorë Elektrikë për Makina",
+      "description": "Ashensorët elektrikë për makina janë të përshtatshëm për ndërtesa të larta dhe transport të shpejtë e efikas të automjeteve. Përparësitë kryesore përfshijnë:",
+      "advantages": [
+        {
+          "title": "Shpejtësi dhe efikasitet:",
+          "text": " Teknologjia elektrike ofron shpejtësi të lartë dhe konsum të ulët energjie, duke e bërë transportimin e makinave të shpejtë dhe të besueshëm."
+        },
+        {
+          "title": "Kontroll i avancuar:",
+          "text": " Sistemet elektronike të kontrollit sigurojnë operim të qëndrueshëm e të saktë dhe minimizojnë dridhjet dhe zhurmat."
+        },
+        {
+          "title": "Performancë e lartë:",
+          "text": " Ashensorët elektrikë përballojnë ngarkesa të rënda dhe ofrojnë performancë të qëndrueshme në kushte të ndryshme."
+        }
+      ]
+    },
+    "hydraulic": {
+      "title": "Ashensorë Hidraulikë për Makina",
+      "description": "Ashensorët hidraulikë për makina janë zgjedhje e përshtatshme për ndërtesa me pak kate dhe për transport të qëndrueshëm e të sigurt të automjeteve. Përparësitë kryesore përfshijnë:",
+      "advantages": [
+        {
+          "title": "Instalim më i lehtë:",
+          "text": " Kërkojnë instalim më të thjeshtë dhe më pak hapësirë, ndaj janë të përshtatshëm për ndërtesa të ulëta dhe hapësira të kufizuara."
+        },
+        {
+          "title": "Stabilitet dhe qëndrueshmëri:",
+          "text": " Teknologjia hidraulike ofron lëvizje të qetë dhe të qëndrueshme për transportimin e makinave në kushte të ndryshme pune."
+        },
+        {
+          "title": "Kosto më e ulët mirëmbajtjeje:",
+          "text": " Ashensorët hidraulikë kanë kosto më të ulët mirëmbajtjeje dhe njihen për qëndrueshmërinë e besueshmërinë afatgjatë."
+        }
+      ]
+    },
+    "projectsCaption": "Shiko projektet e realizuara.",
+    "solutions": {
+      "title": "Zgjidhje të Përshtatura për Çdo Nevojë",
+      "description": "Në Canaj Lift, ofrojmë zgjidhje të personalizuara me ashensorë makinash për:",
+      "items": [
+        {
+          "title": "Ndërtesa rezidenciale:",
+          "text": " Zgjidhje të rehatshme dhe të sigurta për banorët që kërkojnë parkim të lehtë dhe efikas."
+        },
+        {
+          "title": "Ndërtesa komerciale:",
+          "text": " Për zyra dhe qendra tregtare, ofrojmë ashensorë që përballojnë përdorim intensiv dhe sigurojnë operim të qëndrueshëm."
+        },
+        {
+          "title": "Garazhe dhe depo:",
+          "text": " Zgjidhje të forta e të qëndrueshme për hapësira parkimi dhe depo industriale, të përshtatura sipas kërkesave të projektit."
+        }
+      ]
+    },
+    "advantages": {
+      "title": "Avantazhet e Ashensorëve për Makina",
+      "items": [
+        {
+          "title": "Përdorim efektiv i hapësirës:",
+          "text": " Ashensorët e makinave ndihmojnë në maksimizimin e hapësirës së parkimit në ndërtesën tuaj."
+        },
+        {
+          "title": "Rritja e vlerës së pronës:",
+          "text": " Zgjidhjet moderne të parkimit mund të rrisin vlerën dhe atraktivitetin e pronës suaj."
+        },
+        {
+          "title": "Komoditet dhe lehtësi:",
+          "text": " Ashensorët tanë e bëjnë parkimin dhe marrjen e makinës të lehtë e të shpejtë, duke përmirësuar përvojën e përdoruesve."
+        }
+      ]
+    },
+    "safety": {
+      "title": "Siguri dhe Cilësi",
+      "description": "Ashensorët tanë për makina ndërtohen sipas standardeve më të larta të sigurisë dhe cilësisë. Përdorim komponentë cilësorë dhe teknologji të avancuar për të siguruar funksionim të sigurt e efikas për një kohë të gjatë.",
+      "contact": "Na kontaktoni sot për të mësuar më shumë rreth ashensorëve tanë për makina dhe për të zbuluar se si mund t'ju ndihmojmë të realizoni projektin tuaj."
+    }
+  },
+  "freight": {
+    "intro": {
+      "category": "Prezantim",
+      "title": "Ashensorët për Mallra",
+      "description": "Në Canaj Lift, e kuptojmë rëndësinë e efikasitetit dhe besueshmërisë në transportin e mallrave. Ashensorët tanë janë projektuar për nevojat e ndryshme të industrisë, duke ofruar zgjidhje të forta dhe të qëndrueshme për ngarkesa të rënda e voluminoze. Ofrojmë një gamë të gjerë ashensorësh dhe platformash për mallra, me modele elektrike dhe hidraulike."
+    },
+    "electric": {
+      "title": "Ashensorë Elektrikë për Mallra",
+      "description": "Ashensorët elektrikë për mallra janë idealë për ndërtesa të larta dhe transportin e ngarkesave të mëdha e të rënda. Përparësitë kryesore përfshijnë:",
+      "advantages": [
+        {
+          "title": "Kapacitet i lartë ngarkese:",
+          "text": " Të projektuar për ngarkesa të rënda, këta ashensorë janë të përshtatshëm për përdorim industrial dhe komercial."
+        },
+        {
+          "title": "Shpejtësi dhe efikasitet:",
+          "text": " Teknologjia elektrike ofron shpejtësi dhe efikasitet të lartë, duke shkurtuar kohën e pritjes dhe rritur produktivitetin."
+        },
+        {
+          "title": "Qëndrueshmëri dhe besueshmëri:",
+          "text": " Komponentët cilësorë dhe ndërtimi i fortë sigurojnë performancë të qëndrueshme dhe të besueshme në kushte të ndryshme pune."
+        }
+      ]
+    },
+    "hydraulic": {
+      "title": "Ashensorë Hidraulikë për Mallra",
+      "description": "Ashensorët hidraulikë për mallra janë të përshtatshëm për ndërtesa me pak kate dhe për ngarkesa që kërkojnë transport të qëndrueshëm e të sigurt. Përparësitë kryesore përfshijnë:",
+      "advantages": [
+        {
+          "title": "Kosto më e ulët instalimi:",
+          "text": " Instalimi dhe mirëmbajtja e ashensorëve hidraulikë zakonisht kushtojnë më pak se te modelet elektrike."
+        },
+        {
+          "title": "Transport i qëndrueshëm:",
+          "text": " Sistemet hidraulike ofrojnë transport të qetë dhe të qëndrueshëm për ngarkesa të rënda e voluminoze."
+        },
+        {
+          "title": "Fleksibilitet dhe përdorshmëri:",
+          "text": " Të përshtatshëm për një gamë të gjerë aplikimesh, nga magazinat dhe depot deri te fabrikat dhe ndërtesat komerciale."
+        }
+      ]
+    },
+    "platforms": {
+      "title": "Platforma për Mallra",
+      "description": "Përveç ashensorëve tradicionalë, ofrojmë platforma elektrike dhe hidraulike për transportin e mallrave. Ato janë projektuar për fleksibilitet dhe efikasitet maksimal në lëvizjen e ngarkesave të ndryshme:",
+      "advantages": [
+        {
+          "title": "Platforma elektrike për mallra:",
+          "text": " Ofrojnë performancë të lartë dhe efikasitet energjetik, të përshtatshme për përdorim të vazhdueshëm dhe ngarkesa të rënda."
+        },
+        {
+          "title": "Platforma hidraulike për mallra:",
+          "text": " Ofrojnë stabilitet dhe qëndrueshmëri të lartë, ideale për ambiente të ndryshme industriale dhe komerciale."
+        }
+      ]
+    },
+    "projectsCaption": "Shiko projektet e realizuara.",
+    "solutions": {
+      "title": "Zgjidhje të Përshtatura për Çdo Nevojë",
+      "description": "Në Canaj Lift, ofrojmë zgjidhje të personalizuara për nevojat specifike të çdo klienti. Pavarësisht nëse ju nevojitet një ashensor me kapacitet të madh për ngarkesa të rënda apo një platformë fleksibile për transportin e mallrave, ne kemi zgjidhjen e duhur."
+    },
+    "safety": {
+      "title": "Siguri dhe Cilësi",
+      "description": "Të gjithë ashensorët dhe platformat tona për mallra ndërtohen sipas standardeve më të larta të sigurisë dhe cilësisë. Përdorim materiale cilësore dhe teknologjitë më të fundit për të siguruar funksionim të sigurt dhe efikas për një kohë të gjatë.",
+      "contact": "Na kontaktoni sot për të mësuar më shumë rreth ashensorëve dhe platformave tona për mallra dhe për të zbuluar se si mund t'ju ndihmojmë të realizoni projektin tuaj."
+    }
+  },
+  "passenger": {
+    "intro": {
+      "category": "Prezantim",
+      "title": "Ashensorët për Pasagjerë",
+      "description": "Në Canaj Lift, jemi të përkushtuar të ofrojmë ashensorë pasagjerësh që plotësojnë dhe tejkalojnë pritshmëritë e klientëve tanë. Ashensorët tanë janë projektuar për një udhëtim të qetë, të sigurt dhe të rehatshëm, duke përdorur teknologjitë më të fundit dhe standardet më të larta të industrisë."
+    },
+    "electric": {
+      "title": "Ashensorët Elektrikë",
+      "description": "Ashensorët elektrikë janë të përshtatshëm për ndërtesa shumëkatëshe dhe ofrojnë shpejtësi të lartë dhe efikasitet energjetik. Ndër avantazhet kryesore të tyre janë:",
+      "advantages": [
+        {
+          "title": "Shpejtësi dhe efikasitet:",
+          "text": " Ashensorët elektrikë janë idealë për ndërtesa të larta, ku pasagjerët duhet të transportohen shpejt."
+        },
+        {
+          "title": "Teknologji e avancuar:",
+          "text": " Motorët dhe inverterët e avancuar sigurojnë udhëtim të qetë dhe të qëndrueshëm."
+        },
+        {
+          "title": "Performancë e lartë:",
+          "text": " Ashensorët elektrikë përballojnë ngarkesa të larta dhe ofrojnë performancë të shkëlqyer në kushte të ndryshme pune."
+        }
+      ]
+    },
+    "hydraulic": {
+      "title": "Ashensorët Hidraulikë",
+      "description": "Ashensorët hidraulikë janë një zgjedhje e shkëlqyer për ndërtesat me pak kate, duke ofruar besueshmëri dhe qëndrueshmëri të lartë. Ndër avantazhet kryesore të tyre janë:",
+      "advantages": [
+        {
+          "title": "Kosto më e ulët instalimi:",
+          "text": " Ashensorët hidraulikë zakonisht kanë kosto më të ulët instalimi dhe mirëmbajtjeje, ndaj janë të përshtatshëm për ndërtesa të ulëta dhe të mesme."
+        },
+        {
+          "title": "Përdorim i gjithanshëm:",
+          "text": " Mund të përdoren në një gamë të gjerë objektesh, nga ndërtesat rezidenciale te ato komerciale."
+        },
+        {
+          "title": "Stabilitet dhe qëndrueshmëri:",
+          "text": " Sistemet hidraulike ofrojnë stabilitet të lartë dhe njihen për jetëgjatësinë e tyre."
+        }
+      ]
+    },
+    "projectsCaption": "Shiko projektet e realizuara.",
+    "solutions": {
+      "title": "Zgjidhje të Përshtatura për Çdo Nevojë",
+      "description": "Në Canaj Lift, e kuptojmë se çdo ndërtesë dhe projekt ka kërkesat e veta. Prandaj, ofrojmë zgjidhje me ashensorë elektrikë dhe hidraulikë për:",
+      "items": [
+        {
+          "title": "Ndërtesa rezidenciale:",
+          "text": " Ashensorët tanë ofrojnë udhëtim të qetë dhe të sigurt për banorët, duke shtuar vlerë dhe komoditet në ndërtesën tuaj."
+        },
+        {
+          "title": "Ndërtesa komerciale:",
+          "text": " Për zyra dhe ambiente komerciale, ofrojmë ashensorë të besueshëm dhe efikasë që përballojnë flukse të larta përdoruesish."
+        },
+        {
+          "title": "Ndërtesa të larta dhe të ulëta:",
+          "text": " Pavarësisht nëse ju nevojitet ashensor për një ndërtesë shumëkatëshe apo më të ulët, ne kemi zgjidhjen e duhur."
+        }
+      ]
+    },
+    "safety": {
+      "title": "Siguri dhe Cilësi",
+      "description": "Të gjithë ashensorët tanë ndërtohen sipas standardeve më të larta të sigurisë dhe cilësisë. Përdorim komponentë cilësorë dhe teknologji të avancuar për të siguruar funksionim të sigurt dhe efikas për një kohë të gjatë.",
+      "contact": "Na kontaktoni sot për të mësuar më shumë rreth ashensorëve tanë të pasagjerëve dhe për të zbuluar se si mund t'ju ndihmojmë të realizoni projektin tuaj."
+    }
+  },
+  "home": {
+    "hero": {
+      "badge": "20+ Vjet Përvojë • Direktivat e BE-së",
+      "title": "Lëvizje me precizion.",
+      "subtitleAccent": "Çdo nivel, më lart.",
+      "description": "Lëvizja juaj vertikale, siguria jonë absolute. Ofrojmë zgjidhje të plota për projektim, furnizim, instalim dhe mirëmbajtje ashensorësh me teknologjinë më të avancuar në Shqipëri.",
+      "ctaPrimary": "Kërko një ofertë",
+      "ctaSecondary": "Shiko projektet",
+      "imageAlt": "Atrium modern me ashensorë Canaj Lift",
+      "cardLabel": "Siguri & Standarde Europiane",
+      "cardTitle": "Ngjituni lart me besim, Canaj Lift ju ngre."
+    },
+    "stats": {
+      "ariaLabel": "Treguesit e kapacitetit",
+      "yearsLabel": "Vjet Përvojë",
+      "yearsDescription": "Eksperiencë e gjatë dhe lider në industrinë e ashensorëve në Shqipëri.",
+      "staffLabel": "Profesionistë & 12 Grupe",
+      "staffDescription": "Ekip i madh dhe i kualifikuar me 12 grupe instalimi për çdo projekt.",
+      "capacityLabel": "Kapacitet Instalimi",
+      "capacityValue": "20 / muaj",
+      "capacityDescription": "Kapacitet i lartë mujor për të përballuar projekte të mëdha në afat.",
+      "maintenanceLabel": "Ashensorë në Mirëmbajtje",
+      "maintenanceDescription": "Besueshmëri e provuar me asistencë teknike dhe servis emergjence 24/7."
+    },
+    "products": {
+      "eyebrow": "01 / Portofoli i Produkteve",
+      "title": "Hapësirë për lëvizje.",
+      "subtitle": "Zgjidhje të përshtatura për ndërtesa rezidenciale, qendra tregtare, vila dhe ambiente industriale me sisteme elektrike dhe hidraulike."
+    },
+    "productCards": {
+      "tags": {
+        "electric": "Elektrik",
+        "hydraulic": "Hidraulik",
+        "platform": "Platforma",
+        "customDesign": "Dizajn Custom",
+        "lowConsumption": "Konsum i Ulët",
+        "ergonomic": "Ergonomik",
+        "maximumSafety": "Siguri Maksimale",
+        "shoppingCentres": "Qendra Tregtare",
+        "publicSpaces": "Publike",
+        "heavyDuty": "Regjim i Rëndë",
+        "industrial": "Industrial"
+      },
+      "passenger": {
+        "name": "Ashensorë Pasagjerësh",
+        "description": "Udhëtim i qetë, i sigurt dhe komod për ndërtesa rezidenciale dhe komerciale me fluks të lartë.",
+        "features": [
+          "Shpejtësi e lartë dhe efikasitet energjetik me motorë e inverterë të avancuar",
+          "Zgjidhje të përshtatura për ndërtesa të larta dhe të ulëta"
+        ]
+      },
+      "goods": {
+        "name": "Ashensorë Mallrash",
+        "description": "Zgjidhje të forta dhe të qëndrueshme për transportin e ngarkesave të rënda në depo dhe fabrika.",
+        "features": ["Kapacitet i lartë ngarkese", "Strukturë e përforcuar rezistente"]
+      },
+      "car": {
+        "name": "Ashensorë Makinash",
+        "description": "Sisteme të avancuara për parkimin dhe transportin vertikal të automjeteve në hapësira të kufizuara.",
+        "features": ["Maksimizim i hapësirës së parkimit", "Kontroll elektronik pa dridhje"]
+      },
+      "home": {
+        "name": "Ashensorë Vilash (Homelift)",
+        "description": "Komoditet, luks dhe dizajn estetik i personalizuar për shtëpi dhe vila të reja ose ekzistuese.",
+        "features": ["Instalim pa ndryshime të mëdha strukturore", "Kabina dhe dyer të personalizuara"]
+      },
+      "stairlift": {
+        "name": "Platforma Ngjitëse (Stairlift)",
+        "description": "Pavarësi dhe akses i sigurt ndërmjet kateve për personat me aftësi të kufizuara.",
+        "features": ["Rripa sigurie, sensorë pengese dhe frena emergjente", "Kontroll i thjeshtë me telekomandë"]
+      },
+      "escalators": {
+        "name": "Shkallë dhe Tapete Lëvizëse",
+        "description": "Qarkullim i pandërprerë dhe kapacitet i lartë për qendra tregtare, aeroporte dhe hapësira publike.",
+        "features": ["Reduktim i kohës së pritjes dhe trafikut", "Dizajn modern estetik dhe jetëgjatë"]
+      },
+      "industrial": {
+        "name": "Ashensorë Industrialë",
+        "description": "Sisteme të dedikuara me qëndrueshmëri ekstreme për linja prodhimi, magazina dhe objekte industriale.",
+        "features": ["Operim intensiv i vazhdueshëm", "Përputhshmëri me standardet e sigurisë teknike"]
+      }
+    },
+    "services": {
+      "eyebrow": "02 / Zgjidhje End-to-End",
+      "title": "Nga simboli te sistemi. Mbështetje e pandërprerë.",
+      "subtitle": "Gjithçka e nevojshme për funksionimin pa ndërprerje dhe në përputhje të plotë me direktivat e Bashkimit Europian."
+    },
+    "serviceCards": {
+      "installation": {
+        "name": "Instalim Profesional",
+        "description": "12 grupe instalimi të certifikuara për projekte bazike deri te ato më komplekse.",
+        "highlight": "Rreth 20 ashensorë të instaluar çdo muaj në afat dhe siguri të plotë."
+      },
+      "maintenance": {
+        "name": "Mirëmbajtje & Servis 24/7",
+        "description": "Plane të personalizuara periodike dhe gatishmëri 24/7 për çdo emergjencë.",
+        "highlight": "Mbi 400 ashensorë aktivë nën mirëmbajtjen tonë të vazhdueshme."
+      },
+      "modernization": {
+        "name": "Modernizim Sistemesh",
+        "description": "Përditësim i kompjuterizuar, automatizim dhe rritje e efikasitetit për ashensorët ekzistues.",
+        "highlight": "Përshtatje e plotë me standardet e fundit industriale europiane."
+      },
+      "spareParts": {
+        "name": "Pjesë Këmbimi Origjinale",
+        "description": "Furnizim i shpejtë nga stoku ynë i përhershëm me komponentë origjinalë.",
+        "highlight": "Çdo pjesë kontrollohet dhe testohet për siguri maksimale para instalimit."
+      }
+    },
+    "about": {
+      "eyebrow": "03 / Rreth Canaj Lift",
+      "title": "E dallueshme, në çdo nivel.",
+      "lead": "Prej më shumë se 20 vitesh, Canaj Lift ka ndërtuar një reputacion të fortë për cilësi dhe shërbim të shkëlqyer. Përveç projekteve tona, ne kryejmë instalime edhe për firmat e tjera të ashensorëve në treg, duke u bërë partneri i preferuar inxhinierik në Shqipëri.",
+      "cta": "Historia dhe Certifikimet",
+      "slogan": "Cilësia që ju ngre lart, shërbimi që ju mban atje.",
+      "card1Eyebrow": "01 / Terren 24/7",
+      "card1ImageAlt": "Flota e automjeteve të shërbimit Canaj Lift",
+      "card1Title": "Automjet shërbimi & 12 Grupe",
+      "card1Text": "Flotë e dedikuar teknike për instalime në kantiere dhe ndërhyrje të menjëhershme emergjence.",
+      "card2Eyebrow": "02 / Certifikim CE",
+      "card2ImageAlt": "Kabina dhe sinjalistika arkitektonike Canaj Lift",
+      "card2Title": "Sinjalistikë & Precizion",
+      "card2Text": "Kabina moderne inoksi, sisteme kontrolli inteligjente dhe komponentë të testuar sigurie."
+    },
+    "values": {
+      "qualityTitle": "Cilësi dhe Inovacion",
+      "qualityText": "Përdorim teknologjinë më të avancuar për të garantuar ashensorë efikasë, të qetë dhe të sigurt.",
+      "clientTitle": "Shërbim i Personalizuar ndaj Klientit",
+      "clientText": "Analizojmë specifikat arkitektonike të çdo ndërtese për të ofruar zgjidhjen optimale.",
+      "proTitle": "Përkushtim dhe Profesionalizëm",
+      "proText": "Staf prej 40 profesionistësh të trajnuar dhe të certifikuar për çdo fazë të projektit."
+    },
+    "projects": {
+      "eyebrow": "04 / Portofoli në Terren",
+      "title": "Projektet e realizuara.",
+      "viewAll": "Shiko të gjitha projektet",
+      "locations": {
+        "tirana": "Tiranë",
+        "durres": "Durrës"
+      },
+      "capacities": {
+        "residential": "8 Persona / 630 kg",
+        "business": "3500 kg (Automjete)",
+        "private": "4 Persona / 320 kg"
+      },
+      "items": {
+        "residential": {
+          "title": "Kompleks Rezidencial & Komercial",
+          "type": "Ashensorë Pasagjerësh Elektrikë",
+          "description": "Instalim i ashensorëve me shpejtësi të lartë dhe kabina inoksi me efikasitet të lartë energjetik."
+        },
+        "business": {
+          "title": "Qendër Biznesi & Parkim Nëntokësor",
+          "type": "Ashensor Makinash & Pasagjerësh",
+          "description": "Zgjidhje e integruar për transportin vertikal të automjeteve dhe qarkullimin e vizitorëve."
+        },
+        "private": {
+          "title": "Rezidencë Private Luksoze",
+          "type": "Ashensor Vile (Homelift)",
+          "description": "Homelift me dizajn të personalizuar, operim ultra të qetë dhe konsum minimal energjie."
+        }
+      }
+    },
+    "partners": {
+      "title": "Bashkëpunëtorët dhe Partnerët Tanë"
+    },
+    "testimonials": {
+      "eyebrow": "05 / Dëshmitë e Klientëve",
+      "title": "Zëri i klientëve tanë flet më shumë se ne.",
+      "items": {
+        "artan": {
+          "quote": "Canaj Lift na ofroi një shërbim të shkëlqyer, duke instaluar ashensorin tonë të ri brenda afatit dhe buxhetit. Jemi shumë të kënaqur me cilësinë dhe profesionalizmin e tyre.",
+          "role": "Menaxher Ndërtimi"
+        },
+        "agron": {
+          "quote": "Ne kemi bashkëpunuar me Canaj Lift për disa projekte dhe gjithmonë kemi qenë të kënaqur me shërbimin e tyre të shkëlqyer dhe cilësinë e lartë të punës së tyre.",
+          "role": "Arkitekt"
+        },
+        "ermira": {
+          "quote": "Falë Canaj Lift, ashensori ynë i vjetër funksionon si i ri! Shërbimi i tyre i mirëmbajtjes është i shkëlqyer dhe çmimet janë shumë të arsyeshme.",
+          "role": "Administratore Ndërtese"
+        },
+        "klement": {
+          "quote": "Si pronar i një vile, isha në kërkim të një ashensori elegant dhe të besueshëm. Canaj Lift më ofroi zgjidhjen perfekte me homelift-in e tyre.",
+          "role": "Pronar Vile"
+        },
+        "aurel": {
+          "quote": "Jam shumë i kënaqur me shërbimin e Canaj Lift. Ashensorët e tyre janë të qetë dhe të besueshëm. Shërbimi ndaj klientit është gjithmonë i gatshëm për të ndihmuar.",
+          "role": "Inxhinier Mekanik"
+        },
+        "blerina": {
+          "quote": "Zgjodhëm Canaj Lift për modernizimin e ashensorit tonë dhe jemi shumë të kënaqur me rezultatin. Ashensori ynë tani është më i shpejtë, më i qetë dhe më efikas.",
+          "role": "Pronare Biznesi"
+        }
+      }
+    },
+    "faq": {
+      "eyebrow": "06 / Pyetje Teknike & Ligjore",
+      "title": "Pyetjet më të shpeshta (FAQ)",
+      "subtitle": "Keni pyetje mbi dokumentacionin e nevojshëm, kohëzgjatjen e instalimit apo kontratat e mirëmbajtjes? Kontaktoni ekipin tonë inxhinierik.",
+      "items": {
+        "documents": {
+          "question": "Çfarë dokumentesh duhen që të instaloj një ashensor?",
+          "answer": "Për instalimin e një ashensori duhet të keni një leje ndërtimi për objektin përkatës, ku është i përshkruar dhe i parashikuar ashensori."
+        },
+        "products": {
+          "question": "Çfarë llojesh ashensorësh ofroni?",
+          "answer": "Ne ofrojmë ashensorë pasagjerësh (elektrikë dhe hidraulikë), ashensorë dhe platforma mallrash, ashensorë makinash, ashensorë vilash (homelift), shkallë dhe tapete lëvizëse, platforma për persona me aftësi të kufizuara (stairlift) dhe ashensorë industrialë."
+        },
+        "maintenance": {
+          "question": "Çfarë përfshihet në shërbimin tuaj të mirëmbajtjes?",
+          "answer": "Zhvillojmë plane të personalizuara të mirëmbajtjes periodike për mbi 400 ashensorë, inspektim të rregullt të komponentëve të sigurisë dhe ofrojmë servis emergjence 24/7 me stok të përhershëm pjesësh origjinale."
+        },
+        "modernization": {
+          "question": "A ofroni shërbime modernizimi për ashensorët ekzistues?",
+          "answer": "Po, ofrojmë modernizim të plotë përmes përditësimit të kompjuterizuar, automatizimit të proceseve dhe zëvendësimit të komponentëve të amortizuar në përputhje me standardet e reja europiane."
+        },
+        "quote": {
+          "question": "Si mund të marr një ofertë për një ashensor?",
+          "answer": "Mund të na kontaktoni drejtpërdrejt përmes faqes së kontaktit, në numrin e telefonit +355 69 604 2852 ose në email-in info{'@'}canajlift.al për një vlerësim teknik të projektit tuaj."
+        }
+      }
+    },
+    "cta": {
+      "eyebrow": "Gati për projektin tuaj",
+      "title": "Një identitet që ngrihet mbi qartësinë.",
+      "description": "Na kontaktoni sot për një konsultë teknike dhe ofertë të personalizuar për instalim, modernizim ose mirëmbajtje ashensori.",
+      "primaryButton": "Kërko një ofertë"
+    }
+  },
+  "nav": {
+    "brand": "Canaj Lift",
+    "mainMenu": "Navigimi kryesor",
+    "products": "Produktet",
+    "services": "Shërbimet",
+    "about": "Rreth Nesh",
+    "projects": "Projektet",
+    "contact": "Kontakto",
+    "login": "Identifikohu",
+    "openMenu": "Hap menunë kryesore",
+    "closeMenu": "Mbyll menunë"
+  },
+  "products": {
+    "passenger": "Ashensor Pasagjerësh",
+    "passengerDescription": "Ashensorë pasagjerësh për transport të rehatshëm dhe të sigurt",
+    "goods": "Ashensor Mallrash",
+    "goodsDescription": "Ashensorë mallrash për transport të sigurt dhe efikas të mallrave",
+    "car": "Ashensor Makinash",
+    "carDescription": "Ashensorë makinash për parkim efikas dhe modern",
+    "home": "Ashensor Vilash (Homelift)",
+    "homeDescription": "Ashensorë vilash për komoditet dhe luks në shtëpinë tuaj",
+    "stairlift": "Platformë Ngritëse (Stairlift)",
+    "stairliftDescription": "Platforma ngritëse për akses të lehtë dhe të sigurt në shkallë",
+    "escalators": "Shkallë dhe Tapete Lëvizëse",
+    "escalatorsDescription": "Për qendra tregtare, aeroporte dhe ambiente të tjera publike",
+    "industrial": "Ashensor Industrial",
+    "industrialDescription": "Ashensorë hidraulikë për përdorim industrial"
+  },
+  "services": {
+    "installation": "Instalim",
+    "installationDescription": "Instalim i kryer sipas udhëzimeve të prodhuesve dhe direktivave CE.",
+    "maintenance": "Mirëmbajtje",
+    "maintenanceDescription": "Mirëmbajtje sipas udhëzimeve të prodhuesve dhe direktivave CE.",
+    "modernization": "Modernizim",
+    "modernizationDescription": "Modernizim sipas udhëzimeve të prodhuesve dhe direktivave CE.",
+    "spareParts": "Pjesë Këmbimi",
+    "sparePartsDescription": "Pjesë këmbimi për funksionim të besueshëm dhe jetëgjatë."
+  },
+  "actions": {
+    "demo": "Shiko demonstrimin",
+    "contact": "Kontakto"
+  },
+  "common": {
+    "home": "Kryefaqja",
+    "goTo": "Shko te {page}",
+    "theme": "Tema",
+    "language": "Gjuha",
+    "light": "E çelët",
+    "dark": "E errët",
+    "device": "Pajisja",
+    "seeMore": "Shiko detajet teknike",
+    "exploreService": "Mëso më shumë"
+  },
+  "pages": {
+    "home": "Mirë se vini te Canaj Lift",
+    "about": "Rreth Nesh",
+    "projects": "Projektet",
+    "contact": "Kontakt",
+    "car": "Ashensor Makinash",
+    "goods": "Ashensor Mallrash",
+    "passenger": "Ashensor Pasagjerësh",
+    "homeLift": "Ashensor Vilash",
+    "industrial": "Ashensor Industrial",
+    "escalators": "Shkallë dhe Tapete Lëvizëse",
+    "stairlift": "Platformë Ngritëse",
+    "installation": "Instalim",
+    "maintenance": "Mirëmbajtje",
+    "modernization": "Modernizim",
+    "spareParts": "Pjesë Këmbimi"
+  },
+  "loginPage": {
+    "status": "Faqja në ndërtim",
+    "title": "Po përgatisim faqen e hyrjes.",
+    "description": "Po punojmë për ta përfunduar këtë faqe. Hyrja në llogarinë Canaj Lift do të jetë e disponueshme së shpejti.",
+    "homeCta": "Kthehu në kryefaqe"
+  },
+  "error": {
+    "backHome": "Kthehu te kryefaqja"
+  }
+}
