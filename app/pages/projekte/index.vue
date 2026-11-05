@@ -80,7 +80,7 @@
             </p>
           </div>
 
-          <div class="flex flex-wrap gap-2" role="tablist" aria-label="Filtro projektet sipas kategorisë">
+          <div class="flex flex-wrap gap-2" role="tablist" :aria-label="tr('projectsPortfolio.categories.ariaLabel')">
             <button
               v-for="kat in content.kategorite"
               :key="kat.id"
@@ -114,7 +114,7 @@
                 <div class="relative aspect-16/10 w-full overflow-hidden rounded-xl bg-mjegull dark:bg-celiku/20">
                   <img
                     :src="projekt.imazhe[indeksiFotosAktive[projekt.id] || 0]"
-                    :alt="`${tr(projekt.titull)} - Foto ${(indeksiFotosAktive[projekt.id] || 0) + 1}`"
+                    :alt="$t('projectsPortfolio.gallery.imageAlt', { title: tr(projekt.titull), number: (indeksiFotosAktive[projekt.id] || 0) + 1 })"
                     class="h-full w-full object-cover transition duration-500"
                     loading="lazy"
                   />
@@ -144,7 +144,7 @@
                         : 'opacity-70 hover:opacity-100',
                       'relative aspect-16/9 overflow-hidden rounded-lg bg-mjegull transition dark:bg-celiku/20'
                     ]"
-                    :aria-label="`Shiko foton ${imgIdx + 1}`"
+                    :aria-label="$t('projectsPortfolio.gallery.thumbnailAriaLabel', { number: imgIdx + 1 })"
                   >
                     <img :src="imgUrl" alt="" class="h-full w-full object-cover" loading="lazy" />
                   </button>
@@ -172,7 +172,7 @@
                     <img
                       v-if="projekt.logoSubjekti"
                       :src="projekt.logoSubjekti"
-                      :alt="projekt.emerSubjekti || 'Logo Subjekti'"
+                      :alt="projekt.emerSubjekti ? tr(projekt.emerSubjekti) : tr('projectsPortfolio.project.logoAlt')"
                       class="h-6 w-auto object-contain"
                     />
                     <BuildingOffice2Icon v-else class="size-4 text-celiku dark:text-mjegull" aria-hidden="true" />
@@ -339,64 +339,64 @@ const props = withDefaults(
   {
     content: () => ({
       hero: {
-        kategori: 'Portofoli Inxhinierik',
-        titull: 'Projektet e realizuara.',
-        pershkrim:
-          'Me mbi 20 vjet përvojë dhe 12 grupe instalimi të certifikuara, Canaj Lift ka realizuar qindra projekte të suksesshme për ndërtesa rezidenciale, qendra tregtare, ambiente komerciale, vila dhe objekte industriale në të gjithë Shqipërinë.',
-        shenimTitull: 'Shënim mbi portofolin e publikuar:',
-        shenimTekst:
-          'Projektet e paraqitura në këtë faqe janë vetëm disa nga instalimet e realizuara prej nesh. Me një kapacitet prej rreth 20 ashensorësh të instaluar çdo muaj dhe mbi 400 ashensorë në mirëmbajtje — përfshirë instalimet që kryejmë si partner i preferuar edhe për firmat e tjera të ashensorëve në treg — portofoli ynë shtrihet në mijëra njësi funksionale.',
+        kategori: 'projectsPortfolio.hero.category',
+        titull: 'projectsPortfolio.hero.title',
+        pershkrim: 'projectsPortfolio.hero.description',
+        shenimTitull: 'projectsPortfolio.hero.noteTitle',
+        shenimTekst: 'projectsPortfolio.hero.noteText',
       },
       statistika: [
         {
-          etiketa: 'Kapacitet Mujor',
-          vlera: '~20 / muaj',
-          pershkrim: 'Ashensorë të instaluar çdo muaj me standarde të larta sigurie.',
+          etiketa: 'projectsPortfolio.stats.monthly.label',
+          vlera: 'projectsPortfolio.stats.monthly.value',
+          pershkrim: 'projectsPortfolio.stats.monthly.description',
         },
         {
-          etiketa: 'Ekipe në Terren',
-          vlera: '12 Grupe',
-          pershkrim: 'Grupe instalimi të specializuara për projekte bazike dhe komplekse.',
+          etiketa: 'projectsPortfolio.stats.teams.label',
+          vlera: 'projectsPortfolio.stats.teams.value',
+          pershkrim: 'projectsPortfolio.stats.teams.description',
         },
         {
-          etiketa: 'Mirëmbajtje Aktive',
+          etiketa: 'projectsPortfolio.stats.maintenance.label',
           vlera: '400+',
-          pershkrim: 'Ashensorë nën monitorim periodik dhe servisim 24/7.',
+          pershkrim: 'projectsPortfolio.stats.maintenance.description',
         },
         {
-          etiketa: 'Eksperiencë',
-          vlera: '20+ Vjet',
-          pershkrim: 'Lider në tregun shqiptar dhe partner për kompanitë e tjera.',
+          etiketa: 'projectsPortfolio.stats.experience.label',
+          vlera: 'projectsPortfolio.stats.experience.value',
+          pershkrim: 'projectsPortfolio.stats.experience.description',
         },
       ],
       kategorite: [
-        { id: 'te-gjitha', emri: 'Të gjitha' },
-        { id: 'pasagjeresh', emri: 'Ashensorë Pasagjerësh' },
-        { id: 'mallrash', emri: 'Ashensorë Mallrash' },
-        { id: 'makinash', emri: 'Ashensorë Makinash' },
-        { id: 'vilash', emri: 'Ashensorë Vilash (Homelift)' },
-        { id: 'shkalle-stairlift', emri: 'Shkallë Lëvizëse & Stairlift' },
+        { id: 'te-gjitha', emri: 'projectsPortfolio.categories.all' },
+        { id: 'pasagjeresh', emri: 'projectsPortfolio.categories.passenger' },
+        { id: 'mallrash', emri: 'projectsPortfolio.categories.freight' },
+        { id: 'makinash', emri: 'projectsPortfolio.categories.car' },
+        { id: 'vilash', emri: 'projectsPortfolio.categories.home' },
+        { id: 'shkalle-stairlift', emri: 'projectsPortfolio.categories.accessibility' },
       ],
       galeria: {
-        titull: 'Përzgjedhje nga instalimet tona',
-        nentitull: 'Klikoni mbi 3 fotot e çdo projekti për të parë detajet e kabinës, dyerve dhe instalimit.',
-        kerkoOferteNgjashme: 'Kërko ofertë për projekt të ngjashëm',
-        tekstPortofoliPlote:
-          'Këto janë vetëm disa nga instalimet tona përfaqësuese. Për referenca specifike teknike sipas llojit të objektit tuaj (ndërtesë shumëkatëshe, qendër tregtare, spital, fabrikë apo vilë), ekipi ynë inxhinierik është i gatshëm t’ju prezantojë dosjen e plotë të punimeve.',
+        titull: 'projectsPortfolio.gallery.title',
+        nentitull: 'projectsPortfolio.gallery.subtitle',
+        kerkoOferteNgjashme: 'projectsPortfolio.gallery.similarProjectCta',
+        tekstPortofoliPlote: 'projectsPortfolio.gallery.fullPortfolioNote',
       },
       projekte: [
         {
           id: 'proj-1',
           kategoriaId: 'pasagjeresh',
-          titull: 'Kompleks Rezidencial & Biznesi',
+          titull: 'projectsPortfolio.items.residential.title',
           data: '2026',
-          vendndodhja: 'Tiranë',
-          emerSubjekti: 'Kompleks Rezidencial',
+          vendndodhja: 'projectsPortfolio.locations.tirana',
+          emerSubjekti: 'projectsPortfolio.items.residential.client',
           logoSubjekti: '/images/logosubjekt/user.svg',
-          llojiAshensorit: 'Ashensorë Pasagjerësh Elektrikë',
-          pershkrim:
-            'Projektim dhe instalim i ashensorëve elektrikë me shpejtësi të lartë dhe efikasitet energjetik për ndërtesë me shumë kate, pajisur me motorë dhe inverterë të avancuar për udhëtim të qetë dhe pa dridhje.',
-          specifikime: ['Kapaciteti: 8 Persona / 630 kg', 'Teknologji: Elektrik VVVF', 'Standardi: Direktivat e BE (CE)'],
+          llojiAshensorit: 'projectsPortfolio.items.residential.elevatorType',
+          pershkrim: 'projectsPortfolio.items.residential.description',
+          specifikime: [
+            'projectsPortfolio.items.residential.specifications.capacity',
+            'projectsPortfolio.items.residential.specifications.technology',
+            'projectsPortfolio.items.residential.specifications.standard',
+          ],
           imazhe: [
             '/images/projects/01/1.png',
             '/images/projects/01/2.png',
@@ -406,15 +406,18 @@ const props = withDefaults(
         {
           id: 'proj-2',
           kategoriaId: 'makinash',
-          titull: 'Parkim Nëntokësor & Godinë Komerciale',
+          titull: 'projectsPortfolio.items.business.title',
           data: '2026',
-          vendndodhja: 'Tiranë',
-          emerSubjekti: 'Qendër Biznesi',
+          vendndodhja: 'projectsPortfolio.locations.tirana',
+          emerSubjekti: 'projectsPortfolio.items.business.client',
           logoSubjekti: '',
-          llojiAshensorit: 'Ashensor Hidraulik për Makina',
-          pershkrim:
-            'Zgjidhje e avancuar për transportin vertikal të automjeteve që maksimizon hapësirën e parkimit nëntokësor. Sistemi hidraulik dhe kontrolli elektronik sigurojnë stabilitet maksimal dhe operim të saktë.',
-          specifikime: ['Kapaciteti: 3500 kg', 'Teknologji: Hidraulik', 'Dyer: Automatike Teleskopike'],
+          llojiAshensorit: 'projectsPortfolio.items.business.elevatorType',
+          pershkrim: 'projectsPortfolio.items.business.description',
+          specifikime: [
+            'projectsPortfolio.items.business.specifications.capacity',
+            'projectsPortfolio.items.business.specifications.technology',
+            'projectsPortfolio.items.business.specifications.doors',
+          ],
           imazhe: [
             '/images/projects/02/1.png',
             '/images/projects/02/2.png',
@@ -424,15 +427,18 @@ const props = withDefaults(
         {
           id: 'proj-3',
           kategoriaId: 'vilash',
-          titull: 'Vilë Private 3-Katëshe',
+          titull: 'projectsPortfolio.items.villa.title',
           data: '2025',
-          vendndodhja: 'Tiranë',
-          emerSubjekti: 'Rezidencë Private',
+          vendndodhja: 'projectsPortfolio.locations.tirana',
+          emerSubjekti: 'projectsPortfolio.items.villa.client',
           logoSubjekti: '',
-          llojiAshensorit: 'Ashensor Vile (Homelift)',
-          pershkrim:
-            'Instalim i një ashensori homelift me kabinë dhe panel kontrolli të personalizuar sipas interierit të vilës. Konsum minimal energjie, zhurmë zero dhe sisteme sigurie të integruara.',
-          specifikime: ['Kapaciteti: 4 Persona / 320 kg', 'Dizajn: Kabinë Panoramike/Inoks', 'Konsum: Efikasitet i Lartë'],
+          llojiAshensorit: 'projectsPortfolio.items.villa.elevatorType',
+          pershkrim: 'projectsPortfolio.items.villa.description',
+          specifikime: [
+            'projectsPortfolio.items.villa.specifications.capacity',
+            'projectsPortfolio.items.villa.specifications.design',
+            'projectsPortfolio.items.villa.specifications.consumption',
+          ],
           imazhe: [
             '/images/projects/03/1.png',
             '/images/projects/03/2.png',
@@ -442,15 +448,18 @@ const props = withDefaults(
         {
           id: 'proj-4',
           kategoriaId: 'mallrash',
-          titull: 'Magazinë Logjistike & Industriale',
+          titull: 'projectsPortfolio.items.warehouse.title',
           data: '2025',
-          vendndodhja: 'Durrës',
-          emerSubjekti: 'Depo Industriale',
+          vendndodhja: 'projectsPortfolio.locations.durres',
+          emerSubjekti: 'projectsPortfolio.items.warehouse.client',
           logoSubjekti: '',
-          llojiAshensorit: 'Ashensor & Platformë Mallrash',
-          pershkrim:
-            'Ashensor mallrash i ndërtuar për ngarkesa të rënda dhe përdorim intensiv industrial. Kabinë e përforcuar prej çeliku rezistent ndaj goditjeve dhe dysheme kundër rrëshqitjes.',
-          specifikime: ['Kapaciteti: 2500 kg', 'Regjim: Industrial i Rëndë', 'Siguri: Frena & Sensorë Mbingarkese'],
+          llojiAshensorit: 'projectsPortfolio.items.warehouse.elevatorType',
+          pershkrim: 'projectsPortfolio.items.warehouse.description',
+          specifikime: [
+            'projectsPortfolio.items.warehouse.specifications.capacity',
+            'projectsPortfolio.items.warehouse.specifications.operation',
+            'projectsPortfolio.items.warehouse.specifications.safety',
+          ],
           imazhe: [
             '/images/projects/04/1.png',
             '/images/projects/04/2.png',
@@ -460,15 +469,18 @@ const props = withDefaults(
         {
           id: 'proj-5',
           kategoriaId: 'shkalle-stairlift',
-          titull: 'Qendër Tregtare & Akses Publik',
+          titull: 'projectsPortfolio.items.shopping.title',
           data: '2025',
-          vendndodhja: 'Tiranë',
-          emerSubjekti: 'Qendër Komerciale',
+          vendndodhja: 'projectsPortfolio.locations.tirana',
+          emerSubjekti: 'projectsPortfolio.items.shopping.client',
           logoSubjekti: '',
-          llojiAshensorit: 'Shkallë Lëvizëse & Platformë Stairlift',
-          pershkrim:
-            'Instalim i shkallëve lëvizëse për qarkullim të lartë vizitorësh dhe i platformave të shkallëve (stairlift) me sensorë sigurie dhe rripa mbrojtës për akses të plotë të personave me aftësi të kufizuara.',
-          specifikime: ['Qarkullim: Fluks i Lartë', 'Aksesueshmëri: Stairlift Ergonomik', 'Operim: I Qetë & Efikas'],
+          llojiAshensorit: 'projectsPortfolio.items.shopping.elevatorType',
+          pershkrim: 'projectsPortfolio.items.shopping.description',
+          specifikime: [
+            'projectsPortfolio.items.shopping.specifications.traffic',
+            'projectsPortfolio.items.shopping.specifications.accessibility',
+            'projectsPortfolio.items.shopping.specifications.operation',
+          ],
           imazhe: [
             '/images/projects/05/1.png',
             '/images/projects/05/2.png',
@@ -478,15 +490,18 @@ const props = withDefaults(
         {
           id: 'proj-6',
           kategoriaId: 'pasagjeresh',
-          titull: 'Modernizim i Plotë në Godinë Ekzistuese',
+          titull: 'projectsPortfolio.items.modernization.title',
           data: '2025',
-          vendndodhja: 'Vlorë',
-          emerSubjekti: 'Godinë Banimi & Zyra',
+          vendndodhja: 'projectsPortfolio.locations.vlore',
+          emerSubjekti: 'projectsPortfolio.items.modernization.client',
           logoSubjekti: '',
-          llojiAshensorit: 'Modernizim Ashensori Pasagjerësh',
-          pershkrim:
-            'Përditësim i kompjuterizuar, automatizim i sistemit të komandimit dhe rinovim i plotë estetik i kabinës për rritjen e shpejtësisë, uljen e konsumit të energjisë dhe përputhjen me standardet europiane.',
-          specifikime: ['Shërbimi: Modernizim Kompleks', 'Kontrolli: Sistem i Kompjuterizuar', 'Garanci: Servis 24/7'],
+          llojiAshensorit: 'projectsPortfolio.items.modernization.elevatorType',
+          pershkrim: 'projectsPortfolio.items.modernization.description',
+          specifikime: [
+            'projectsPortfolio.items.modernization.specifications.service',
+            'projectsPortfolio.items.modernization.specifications.control',
+            'projectsPortfolio.items.modernization.specifications.warranty',
+          ],
           imazhe: [
             '/images/projects/06/1.png',
             '/images/projects/06/2.png',
@@ -495,11 +510,10 @@ const props = withDefaults(
         },
       ],
       cta: {
-        etiketa: 'Bashkëpunim për Ndërtues, Arkitektë & Biznese',
-        titull: 'Planifikoni instalimin ose modernizimin e radhës me Canaj Lift.',
-        pershkrim:
-          'Na kontaktoni për një vlerësim teknik të objektit tuaj. Stafi ynë prej 40 profesionistësh ju mbështet nga projektimi deri te mirëmbajtja 24/7.',
-        butonKryesor: 'Kërko një ofertë',
+        etiketa: 'projectsPortfolio.cta.eyebrow',
+        titull: 'projectsPortfolio.cta.title',
+        pershkrim: 'projectsPortfolio.cta.description',
+        butonKryesor: 'projectsPortfolio.cta.button',
         telefonTekst: '+355 69 604 2852',
         telefonHref: '+355696042852',
       },

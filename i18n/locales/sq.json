@@ -230,6 +230,85 @@
     "description": "Po punojmë për ta përfunduar këtë faqe. Së shpejti do të gjeni këtu mënyrat për të kontaktuar ekipin Canaj Lift.",
     "homeCta": "Kthehu në kryefaqe"
   },
+  "contactForm": {
+    "hero": {
+      "category": "Kontakt & Konsultim Teknik",
+      "title": "Lëvizje me precizion. Na kontaktoni.",
+      "description": "Në Canaj Lift, jemi të përkushtuar për të bërë çdo lëvizje të sigurt dhe të lehtë për ju. Na kontaktoni sot për një ofertë të personalizuar instalimi, mirëmbajtjeje ose modernizimi."
+    },
+    "info": {
+      "title": "Informacione Kontakti",
+      "description": "Stafi ynë prej 40 profesionistësh dhe 12 grupeve të instalimit është në dispozicionin tuaj.",
+      "office": {
+        "label": "Adresa e Zyrave",
+        "address": "Fresku, Rruga \"Muhamet Deliu\" Dajt Tiranë",
+        "note": "Tiranë, Shqipëri"
+      },
+      "phone": {
+        "label": "Telefon & Emergjenca 24/7",
+        "note": "Asistencë teknike dhe oferta komerciale"
+      },
+      "email": {
+        "label": "Adresa e Email-it",
+        "note": "Dërgoni projektet ose specifikimet tuaja teknike"
+      },
+      "hours": {
+        "label": "Orari i Shërbimit",
+        "value": "E Hënë - E Shtunë: 08:00 - 17:00",
+        "note": "Servisim dhe riparim emergjence i gatshëm 24/7"
+      }
+    },
+    "map": {
+      "title": "Vendndodhja jonë në Harte",
+      "address": "Fresku, Rruga \"Muhamet Deliu\" Dajt Tiranë",
+      "alt": "Harta e vendndodhjes së zyrave Canaj Lift në Fresk, Rruga Muhamet Deliu, Tiranë",
+      "button": "Kliko për të hapur vendndodhjen në Google Maps"
+    },
+    "form": {
+      "title": "Dërgoni një Mesazh ose Kërkesë për Ofertë",
+      "description": "Plotësoni të dhënat e mëposhtme dhe inxhinierët tanë do t’ju kontaktojnë në kohë rekord.",
+      "name": {
+        "label": "Emri i Plotë / Subjekti",
+        "placeholder": "p.sh. Artan Hoxha / Kulla Rezidenciale"
+      },
+      "phone": {
+        "label": "Numri i Telefonit"
+      },
+      "email": {
+        "label": "Adresa Email",
+        "placeholder": "emri{'@'}kompania.al"
+      },
+      "service": {
+        "label": "Produkti ose Shërbimi i Kërkuar",
+        "placeholder": "Zgjidhni një kategori...",
+        "options": {
+          "passenger": "Ashensor Pasagjerësh (Elektrik / Hidraulik)",
+          "freight": "Ashensor Mallrash / Platformë",
+          "car": "Ashensor Makinash",
+          "home": "Ashensor Vilash (Homelift)",
+          "stairlift": "Platformë Ngjitëse (Stairlift)",
+          "escalators": "Shkallë dhe Tapete Lëvizëse",
+          "industrial": "Ashensor Industrial",
+          "installation": "Shërbim Instalimi",
+          "maintenance": "Kontratë Mirëmbajtjeje 24/7",
+          "modernization": "Modernizim Ashensori Ekzistues",
+          "spareParts": "Pjesë Këmbimi Origjinale"
+        }
+      },
+      "message": {
+        "label": "Detajet e Projektit / Mesazhi",
+        "placeholder": "Përshkruani numrin e kateve, kapacitetin e kërkuar ose pyetjen tuaj teknike..."
+      },
+      "privacy": "Të dhënat tuaja trajtohen me konfidencialitet të plotë.",
+      "submit": "Dërgo Mesazhin",
+      "submitting": "Duke u dërguar...",
+      "messages": {
+        "success": "Mesazhi juaj u dërgua me sukses! Ekipi i Canaj Lift do t’ju kontaktojë së shpejti.",
+        "serverError": "Ndodhi një gabim gjatë dërgimit. Ju lutemi provoni përsëri ose na telefononi në +355 69 604 2852.",
+        "captchaError": "Ju lutemi plotësoni verifikimin e sigurisë (Cloudflare Captcha) përpara dërgimit."
+      }
+    }
+  },
   "projectsPage": {
     "status": "Faqja në ndërtim",
     "title": "Projektet tona po përgatiten.",
@@ -237,6 +316,135 @@
     "progressLabel": "Faqja po përgatitet",
     "homeCta": "Kthehu në kryefaqe",
     "contactCta": "Na kontaktoni"
+  },
+  "projectsPortfolio": {
+    "hero": {
+      "category": "Portofoli Inxhinierik",
+      "title": "Projektet e realizuara.",
+      "description": "Me mbi 20 vjet përvojë dhe 12 grupe instalimi të certifikuara, Canaj Lift ka realizuar qindra projekte të suksesshme për ndërtesa rezidenciale, qendra tregtare, ambiente komerciale, vila dhe objekte industriale në të gjithë Shqipërinë.",
+      "noteTitle": "Shënim mbi portofolin e publikuar:",
+      "noteText": "Projektet e paraqitura në këtë faqe janë vetëm disa nga instalimet e realizuara prej nesh. Me një kapacitet prej rreth 20 ashensorësh të instaluar çdo muaj dhe mbi 400 ashensorë në mirëmbajtje — përfshirë instalimet që kryejmë si partner i preferuar edhe për firmat e tjera të ashensorëve në treg — portofoli ynë shtrihet në mijëra njësi funksionale."
+    },
+    "stats": {
+      "monthly": {
+        "label": "Kapacitet Mujor",
+        "value": "~20 / muaj",
+        "description": "Ashensorë të instaluar çdo muaj me standarde të larta sigurie."
+      },
+      "teams": {
+        "label": "Ekipe në Terren",
+        "value": "12 Grupe",
+        "description": "Grupe instalimi të specializuara për projekte bazike dhe komplekse."
+      },
+      "maintenance": {
+        "label": "Mirëmbajtje Aktive",
+        "description": "Ashensorë nën monitorim periodik dhe servisim 24/7."
+      },
+      "experience": {
+        "label": "Eksperiencë",
+        "value": "20+ Vjet",
+        "description": "Lider në tregun shqiptar dhe partner për kompanitë e tjera."
+      }
+    },
+    "categories": {
+      "ariaLabel": "Filtro projektet sipas kategorisë",
+      "all": "Të gjitha",
+      "passenger": "Ashensorë Pasagjerësh",
+      "freight": "Ashensorë Mallrash",
+      "car": "Ashensorë Makinash",
+      "home": "Ashensorë Vilash (Homelift)",
+      "accessibility": "Shkallë Lëvizëse & Stairlift"
+    },
+    "gallery": {
+      "title": "Përzgjedhje nga instalimet tona",
+      "subtitle": "Klikoni mbi 3 fotot e çdo projekti për të parë detajet e kabinës, dyerve dhe instalimit.",
+      "similarProjectCta": "Kërko ofertë për projekt të ngjashëm",
+      "fullPortfolioNote": "Këto janë vetëm disa nga instalimet tona përfaqësuese. Për referenca specifike teknike sipas llojit të objektit tuaj (ndërtesë shumëkatëshe, qendër tregtare, spital, fabrikë apo vilë), ekipi ynë inxhinierik është i gatshëm t’ju prezantojë dosjen e plotë të punimeve.",
+      "imageAlt": "{title} - Foto {number}",
+      "thumbnailAriaLabel": "Shiko foton {number}"
+    },
+    "project": {
+      "logoAlt": "Logo e subjektit"
+    },
+    "locations": {
+      "tirana": "Tiranë",
+      "durres": "Durrës",
+      "vlore": "Vlorë"
+    },
+    "items": {
+      "residential": {
+        "title": "Kompleks Rezidencial & Biznesi",
+        "client": "Kompleks Rezidencial",
+        "elevatorType": "Ashensorë Pasagjerësh Elektrikë",
+        "description": "Projektim dhe instalim i ashensorëve elektrikë me shpejtësi të lartë dhe efikasitet energjetik për ndërtesë me shumë kate, pajisur me motorë dhe inverterë të avancuar për udhëtim të qetë dhe pa dridhje.",
+        "specifications": {
+          "capacity": "Kapaciteti: 8 Persona / 630 kg",
+          "technology": "Teknologji: Elektrik VVVF",
+          "standard": "Standardi: Direktivat e BE (CE)"
+        }
+      },
+      "business": {
+        "title": "Parkim Nëntokësor & Godinë Komerciale",
+        "client": "Qendër Biznesi",
+        "elevatorType": "Ashensor Hidraulik për Makina",
+        "description": "Zgjidhje e avancuar për transportin vertikal të automjeteve që maksimizon hapësirën e parkimit nëntokësor. Sistemi hidraulik dhe kontrolli elektronik sigurojnë stabilitet maksimal dhe operim të saktë.",
+        "specifications": {
+          "capacity": "Kapaciteti: 3500 kg",
+          "technology": "Teknologji: Hidraulik",
+          "doors": "Dyer: Automatike Teleskopike"
+        }
+      },
+      "villa": {
+        "title": "Vilë Private 3-Katëshe",
+        "client": "Rezidencë Private",
+        "elevatorType": "Ashensor Vile (Homelift)",
+        "description": "Instalim i një ashensori homelift me kabinë dhe panel kontrolli të personalizuar sipas interierit të vilës. Konsum minimal energjie, zhurmë zero dhe sisteme sigurie të integruara.",
+        "specifications": {
+          "capacity": "Kapaciteti: 4 Persona / 320 kg",
+          "design": "Dizajn: Kabinë Panoramike/Inoks",
+          "consumption": "Konsum: Efikasitet i Lartë"
+        }
+      },
+      "warehouse": {
+        "title": "Magazinë Logjistike & Industriale",
+        "client": "Depo Industriale",
+        "elevatorType": "Ashensor & Platformë Mallrash",
+        "description": "Ashensor mallrash i ndërtuar për ngarkesa të rënda dhe përdorim intensiv industrial. Kabinë e përforcuar prej çeliku rezistent ndaj goditjeve dhe dysheme kundër rrëshqitjes.",
+        "specifications": {
+          "capacity": "Kapaciteti: 2500 kg",
+          "operation": "Regjim: Industrial i Rëndë",
+          "safety": "Siguri: Frena & Sensorë Mbingarkese"
+        }
+      },
+      "shopping": {
+        "title": "Qendër Tregtare & Akses Publik",
+        "client": "Qendër Komerciale",
+        "elevatorType": "Shkallë Lëvizëse & Platformë Stairlift",
+        "description": "Instalim i shkallëve lëvizëse për qarkullim të lartë vizitorësh dhe i platformave të shkallëve (stairlift) me sensorë sigurie dhe rripa mbrojtës për akses të plotë të personave me aftësi të kufizuara.",
+        "specifications": {
+          "traffic": "Qarkullim: Fluks i Lartë",
+          "accessibility": "Aksesueshmëri: Stairlift Ergonomik",
+          "operation": "Operim: I Qetë & Efikas"
+        }
+      },
+      "modernization": {
+        "title": "Modernizim i Plotë në Godinë Ekzistuese",
+        "client": "Godinë Banimi & Zyra",
+        "elevatorType": "Modernizim Ashensori Pasagjerësh",
+        "description": "Përditësim i kompjuterizuar, automatizim i sistemit të komandimit dhe rinovim i plotë estetik i kabinës për rritjen e shpejtësisë, uljen e konsumit të energjisë dhe përputhjen me standardet europiane.",
+        "specifications": {
+          "service": "Shërbimi: Modernizim Kompleks",
+          "control": "Kontrolli: Sistem i Kompjuterizuar",
+          "warranty": "Garanci: Servis 24/7"
+        }
+      }
+    },
+    "cta": {
+      "eyebrow": "Bashkëpunim për Ndërtues, Arkitektë & Biznese",
+      "title": "Planifikoni instalimin ose modernizimin e radhës me Canaj Lift.",
+      "description": "Na kontaktoni për një vlerësim teknik të objektit tuaj. Stafi ynë prej 40 profesionistësh ju mbështet nga projektimi deri te mirëmbajtja 24/7.",
+      "button": "Kërko një ofertë"
+    }
   },
   "aboutPage": {
     "eyebrow": "Rreth Canaj Lift",

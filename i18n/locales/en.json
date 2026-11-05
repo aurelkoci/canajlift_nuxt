@@ -230,6 +230,85 @@
     "description": "We are working to complete this page. Soon, you will find the ways to contact the Canaj Lift team here.",
     "homeCta": "Back to home"
   },
+  "contactForm": {
+    "hero": {
+      "category": "Contact & Technical Consultation",
+      "title": "Move with precision. Contact us.",
+      "description": "At Canaj Lift, we are committed to making every journey safe and easy for you. Contact us today for a tailored quote for installation, maintenance or modernization."
+    },
+    "info": {
+      "title": "Contact Information",
+      "description": "Our team of 40 professionals and 12 installation teams is here to help.",
+      "office": {
+        "label": "Office Address",
+        "address": "Fresku, Muhamet Deliu Street, Dajt, Tirana",
+        "note": "Tirana, Albania"
+      },
+      "phone": {
+        "label": "Phone & 24/7 Emergencies",
+        "note": "Technical assistance and commercial enquiries"
+      },
+      "email": {
+        "label": "Email Address",
+        "note": "Send us your project details or technical specifications"
+      },
+      "hours": {
+        "label": "Service Hours",
+        "value": "Monday - Saturday: 08:00 - 17:00",
+        "note": "Emergency servicing and repairs available 24/7"
+      }
+    },
+    "map": {
+      "title": "Our Location",
+      "address": "Fresku, Muhamet Deliu Street, Dajt, Tirana",
+      "alt": "Map showing the Canaj Lift office location in Fresk, Muhamet Deliu Street, Tirana",
+      "button": "Click to open the location in Google Maps"
+    },
+    "form": {
+      "title": "Send a Message or Request a Quote",
+      "description": "Fill in the details below and our engineers will get back to you promptly.",
+      "name": {
+        "label": "Full Name / Company",
+        "placeholder": "e.g. Artan Hoxha / Residential Tower"
+      },
+      "phone": {
+        "label": "Phone Number"
+      },
+      "email": {
+        "label": "Email Address",
+        "placeholder": "name{'@'}company.com"
+      },
+      "service": {
+        "label": "Required Product or Service",
+        "placeholder": "Select a category...",
+        "options": {
+          "passenger": "Passenger Elevator (Electric / Hydraulic)",
+          "freight": "Freight Elevator / Platform",
+          "car": "Car Elevator",
+          "home": "Home Elevator (Home Lift)",
+          "stairlift": "Stairlift",
+          "escalators": "Escalators and Moving Walkways",
+          "industrial": "Industrial Elevator",
+          "installation": "Installation Service",
+          "maintenance": "24/7 Maintenance Contract",
+          "modernization": "Existing Elevator Modernization",
+          "spareParts": "Original Spare Parts"
+        }
+      },
+      "message": {
+        "label": "Project Details / Message",
+        "placeholder": "Describe the number of floors, required capacity or your technical question..."
+      },
+      "privacy": "Your information will be treated with complete confidentiality.",
+      "submit": "Send Message",
+      "submitting": "Sending...",
+      "messages": {
+        "success": "Your message was sent successfully! The Canaj Lift team will contact you soon.",
+        "serverError": "An error occurred while sending your message. Please try again or call us on +355 69 604 2852.",
+        "captchaError": "Please complete the security verification (Cloudflare Turnstile) before submitting."
+      }
+    }
+  },
   "projectsPage": {
     "status": "Page under construction",
     "title": "Our projects are taking shape.",
@@ -237,6 +316,135 @@
     "progressLabel": "Page in progress",
     "homeCta": "Back to home",
     "contactCta": "Contact us"
+  },
+  "projectsPortfolio": {
+    "hero": {
+      "category": "Engineering Portfolio",
+      "title": "Our completed projects.",
+      "description": "With over 20 years of experience and 12 certified installation teams, Canaj Lift has delivered hundreds of successful projects for residential buildings, shopping centres, commercial spaces, villas and industrial facilities across Albania.",
+      "noteTitle": "A note about our published portfolio:",
+      "noteText": "The projects shown on this page are only a selection of our completed installations. With the capacity to install around 20 elevators each month and more than 400 elevators under maintenance — including installations we carry out as a preferred partner for other elevator companies in the market — our portfolio spans thousands of operating units."
+    },
+    "stats": {
+      "monthly": {
+        "label": "Monthly Capacity",
+        "value": "~20 / month",
+        "description": "Elevators installed each month to high safety standards."
+      },
+      "teams": {
+        "label": "Field Teams",
+        "value": "12 Teams",
+        "description": "Specialist installation teams for projects of all levels of complexity."
+      },
+      "maintenance": {
+        "label": "Active Maintenance",
+        "description": "Elevators under regular monitoring and 24/7 service."
+      },
+      "experience": {
+        "label": "Experience",
+        "value": "20+ Years",
+        "description": "A leader in Albania's market and a partner to other companies."
+      }
+    },
+    "categories": {
+      "ariaLabel": "Filter projects by category",
+      "all": "All",
+      "passenger": "Passenger Elevators",
+      "freight": "Freight Elevators",
+      "car": "Car Elevators",
+      "home": "Home Elevators",
+      "accessibility": "Escalators & Stairlifts"
+    },
+    "gallery": {
+      "title": "A selection of our installations",
+      "subtitle": "Click the three photos for each project to see details of the cabin, doors and installation.",
+      "similarProjectCta": "Request a quote for a similar project",
+      "fullPortfolioNote": "These are just a few representative installations. For technical references specific to your type of facility (high-rise building, shopping centre, hospital, factory or villa), our engineering team can present our full portfolio of completed work.",
+      "imageAlt": "{title} - Photo {number}",
+      "thumbnailAriaLabel": "View photo {number}"
+    },
+    "project": {
+      "logoAlt": "Client logo"
+    },
+    "locations": {
+      "tirana": "Tirana",
+      "durres": "Durrës",
+      "vlore": "Vlorë"
+    },
+    "items": {
+      "residential": {
+        "title": "Residential & Business Complex",
+        "client": "Residential Complex",
+        "elevatorType": "Electric Passenger Elevators",
+        "description": "Design and installation of high-speed, energy-efficient electric elevators for a multi-storey building, equipped with advanced motors and inverters for a smooth, vibration-free ride.",
+        "specifications": {
+          "capacity": "Capacity: 8 People / 630 kg",
+          "technology": "Technology: VVVF Electric",
+          "standard": "Standard: EU Directives (CE)"
+        }
+      },
+      "business": {
+        "title": "Underground Parking & Commercial Building",
+        "client": "Business Centre",
+        "elevatorType": "Hydraulic Car Elevator",
+        "description": "An advanced vehicle-transport solution that maximizes underground parking space. The hydraulic system and electronic controls ensure stability and precise operation.",
+        "specifications": {
+          "capacity": "Capacity: 3500 kg",
+          "technology": "Technology: Hydraulic",
+          "doors": "Doors: Automatic Telescopic"
+        }
+      },
+      "villa": {
+        "title": "Three-Storey Private Villa",
+        "client": "Private Residence",
+        "elevatorType": "Home Elevator",
+        "description": "Installation of a home elevator with a cabin and control panel customized to the villa's interior. Low energy consumption, quiet operation and integrated safety systems.",
+        "specifications": {
+          "capacity": "Capacity: 4 People / 320 kg",
+          "design": "Design: Panoramic / Stainless Steel Cabin",
+          "consumption": "Consumption: High Efficiency"
+        }
+      },
+      "warehouse": {
+        "title": "Logistics & Industrial Warehouse",
+        "client": "Industrial Warehouse",
+        "elevatorType": "Freight Elevator & Platform",
+        "description": "A freight elevator designed for heavy loads and intensive industrial use, with a reinforced impact-resistant steel cabin and a non-slip floor.",
+        "specifications": {
+          "capacity": "Capacity: 2500 kg",
+          "operation": "Duty: Heavy Industrial",
+          "safety": "Safety: Brakes & Overload Sensors"
+        }
+      },
+      "shopping": {
+        "title": "Shopping Centre & Public Access",
+        "client": "Commercial Centre",
+        "elevatorType": "Escalators & Stairlift Platform",
+        "description": "Installation of escalators for high visitor traffic and stairlift platforms with safety sensors and protective belts to improve access for people with disabilities.",
+        "specifications": {
+          "traffic": "Traffic: High Volume",
+          "accessibility": "Accessibility: Ergonomic Stairlift",
+          "operation": "Operation: Quiet & Efficient"
+        }
+      },
+      "modernization": {
+        "title": "Full Modernization of an Existing Building",
+        "client": "Residential & Office Building",
+        "elevatorType": "Passenger Elevator Modernization",
+        "description": "Digital upgrades, automation of the control system and a complete cabin refresh to increase speed, reduce energy consumption and meet European standards.",
+        "specifications": {
+          "service": "Service: Full Modernization",
+          "control": "Control: Computerized System",
+          "warranty": "Support: 24/7 Service"
+        }
+      }
+    },
+    "cta": {
+      "eyebrow": "Partnering with Developers, Architects & Businesses",
+      "title": "Plan your next installation or modernization with Canaj Lift.",
+      "description": "Contact us for a technical assessment of your facility. Our team of 40 professionals supports you from design through to 24/7 maintenance.",
+      "button": "Request a quote"
+    }
   },
   "aboutPage": {
     "eyebrow": "About Canaj Lift",

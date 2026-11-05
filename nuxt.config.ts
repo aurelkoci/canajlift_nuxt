@@ -36,4 +36,15 @@ export default defineNuxtConfig({
     lazy: true,
     detectBrowserLanguage: false,
   },
+  vite: {
+    optimizeDeps: {
+      include: [
+        '@headlessui/vue',
+        '@heroicons/vue/16/solid',
+        '@heroicons/vue/20/solid',
+        '@heroicons/vue/24/outline',
+        '@vue/devtools-core',
+      ]
+    }
+  }
 });

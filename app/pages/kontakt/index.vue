@@ -71,7 +71,7 @@
                         :rel="item.external ? 'noopener noreferrer' : undefined"
                         class="transition hover:text-primary"
                       >
-                        {{ item.vlera }}
+                        {{ tr(item.vlera) }}
                       </a>
                       <span v-else>{{ tr(item.vlera) }}</span>
                     </dd>
@@ -214,10 +214,10 @@
                     </option>
                     <option
                       v-for="opt in content.forma.fusha.sherbimi.opsione"
-                      :key="opt"
-                      :value="opt"
+                      :key="opt.value"
+                      :value="opt.value"
                     >
-                      {{ tr(opt) }}
+                      {{ tr(opt.label) }}
                     </option>
                   </select>
                 </div>
@@ -347,7 +347,7 @@ interface ContactPageContent {
       emri: { etiketa: string; placeholder: string }
       telefoni: { etiketa: string; placeholder: string }
       email: { etiketa: string; placeholder: string }
-      sherbimi: { etiketa: string; placeholder: string; opsione: string[] }
+      sherbimi: { etiketa: string; placeholder: string; opsione: { label: string; value: string }[] }
       mesazhi: { etiketa: string; placeholder: string }
     }
     shenimPrivatesie: string
@@ -375,99 +375,98 @@ const props = withDefaults(
     apiEndpoint: '/api/contact',
     content: () => ({
       hero: {
-        kategori: 'Kontakt & Konsultim Teknik',
-        titull: 'Lëvizje me precizion. Na kontaktoni.',
-        pershkrim:
-          'Në Canaj Lift, jemi të përkushtuar për të bërë çdo lëvizje të sigurt dhe të lehtë për ju. Na kontaktoni sot për një ofertë të personalizuar instalimi, mirëmbajtjeje ose modernizimi.',
+        kategori: 'contactForm.hero.category',
+        titull: 'contactForm.hero.title',
+        pershkrim: 'contactForm.hero.description',
       },
       info: {
-        titull: 'Informacione Kontakti',
-        nentitull: 'Stafi ynë prej 40 profesionistësh dhe 12 grupeve të instalimit është në dispozicionin tuaj.',
+        titull: 'contactForm.info.title',
+        nentitull: 'contactForm.info.description',
         detaje: [
           {
-            etiketa: 'Adresa e Zyrave',
-            vlera: 'Fresku, Rruga "Muhamet Deliu" Dajt Tiranë',
-            shenim: 'Tiranë, Shqipëri',
+            etiketa: 'contactForm.info.office.label',
+            vlera: 'contactForm.info.office.address',
+            shenim: 'contactForm.info.office.note',
             href: 'https://maps.app.goo.gl/s6hAnoGXNPaSCWqL6',
             external: true,
             icon: MapPinIcon,
           },
           {
-            etiketa: 'Telefon & Emergjenca 24/7',
+            etiketa: 'contactForm.info.phone.label',
             vlera: '+355 69 604 2852',
-            shenim: 'Asistencë teknike dhe oferta komerciale',
+            shenim: 'contactForm.info.phone.note',
             href: 'tel:+355696042852',
             icon: PhoneIcon,
           },
           {
-            etiketa: 'Adresa e Email-it',
+            etiketa: 'contactForm.info.email.label',
             vlera: 'canajlift@gmail.com',
-            shenim: 'Dërgoni projektet ose specifikimet tuaja teknike',
+            shenim: 'contactForm.info.email.note',
             href: 'mailto:canajlift@gmail.com',
             icon: EnvelopeIcon,
           },
           {
-            etiketa: 'Orari i Shërbimit',
-            vlera: 'E Hënë - E Shtunë: 08:00 - 17:00',
-            shenim: 'Servisim dhe riparim emergjence i gatshëm 24/7',
+            etiketa: 'contactForm.info.hours.label',
+            vlera: 'contactForm.info.hours.value',
+            shenim: 'contactForm.info.hours.note',
             icon: ClockIcon,
           },
         ],
       },
       harta: {
-        titull: 'Vendndodhja jonë në Harte',
-        adresa: 'Fresku, Rruga "Muhamet Deliu" Dajt Tiranë',
+        titull: 'contactForm.map.title',
+        adresa: 'contactForm.map.address',
         // Zëvendësoje me foton statike të hartës në projektin tënd (p.sh. /images/harta-canaj-lift.webp)
         imazh: '/images/harta-canaj-lift.png',
-        alt: 'Harta e vendndodhjes së zyrave Canaj Lift në Fresk, Rruga Muhamet Deliu, Tiranë',
+        alt: 'contactForm.map.alt',
         linkuHarte: 'https://maps.app.goo.gl/s6hAnoGXNPaSCWqL6',
-        butonTekst: 'Kliko për të hapur vendndodhjen në Google Maps',
+        butonTekst: 'contactForm.map.button',
       },
       forma: {
-        titull: 'Dërgoni një Mesazh ose Kërkesë për Ofertë',
-        pershkrim: 'Plotësoni të dhënat e mëposhtme dhe inxhinierët tanë do t’ju kontaktojnë në kohë rekord.',
+        titull: 'contactForm.form.title',
+        pershkrim: 'contactForm.form.description',
         fusha: {
           emri: {
-            etiketa: 'Emri i Plotë / Subjekti',
-            placeholder: 'p.sh. Artan Hoxha / Kulla Rezidenciale',
+            etiketa: 'contactForm.form.name.label',
+            placeholder: 'contactForm.form.name.placeholder',
           },
           telefoni: {
-            etiketa: 'Numri i Telefonit',
+            etiketa: 'contactForm.form.phone.label',
             placeholder: '+355 69 XX XX XXX',
           },
           email: {
-            etiketa: 'Adresa Email',
-            placeholder: 'emri@kompania.al',
+            etiketa: 'contactForm.form.email.label',
+            placeholder: 'contactForm.form.email.placeholder',
           },
           sherbimi: {
-            etiketa: 'Produkti ose Shërbimi i Kërkuar',
-            placeholder: 'Zgjidhni një kategori...',
+            etiketa: 'contactForm.form.service.label',
+            placeholder: 'contactForm.form.service.placeholder',
             opsione: [
-              'Ashensor Pasagjerësh (Elektrik / Hidraulik)',
-              'Ashensor Mallrash / Platformë',
-              'Ashensor Makinash',
-              'Ashensor Vilash (Homelift)',
-              'Platformë Ngjitëse (Stairlift)',
-              'Shkallë dhe Tapete Lëvizëse',
-              'Ashensor Industrial',
-              'Shërbim Instalimi',
-              'Kontratë Mirëmbajtjeje 24/7',
-              'Modernizim Ashensori Ekzistues',
-              'Pjesë Këmbimi Origjinale',
+              { label: 'contactForm.form.service.options.passenger', value: 'Ashensor Pasagjerësh (Elektrik / Hidraulik)' },
+              { label: 'contactForm.form.service.options.freight', value: 'Ashensor Mallrash / Platformë' },
+              { label: 'contactForm.form.service.options.car', value: 'Ashensor Makinash' },
+              { label: 'contactForm.form.service.options.home', value: 'Ashensor Vilash (Homelift)' },
+              { label: 'contactForm.form.service.options.stairlift', value: 'Platformë Ngjitëse (Stairlift)' },
+              { label: 'contactForm.form.service.options.escalators', value: 'Shkallë dhe Tapete Lëvizëse' },
+              { label: 'contactForm.form.service.options.industrial', value: 'Ashensor Industrial' },
+              { label: 'contactForm.form.service.options.installation', value: 'Shërbim Instalimi' },
+              { label: 'contactForm.form.service.options.maintenance', value: 'Kontratë Mirëmbajtjeje 24/7' },
+              { label: 'contactForm.form.service.options.modernization', value: 'Modernizim Ashensori Ekzistues' },
+              { label: 'contactForm.form.service.options.spareParts', value: 'Pjesë Këmbimi Origjinale' },
             ],
           },
           mesazhi: {
-            etiketa: 'Detajet e Projektit / Mesazhi',
-            placeholder: 'Përshkruani numrin e kateve, kapacitetin e kërkuar ose pyetjen tuaj teknike...',
+            etiketa: 'contactForm.form.message.label',
+            placeholder: 'contactForm.form.message.placeholder',
           },
         },
-        shenimPrivatesie: 'Të dhënat tuaja trajtohen me konfidencialitet të plotë.',
-        butonDergo: 'Dërgo Mesazhin',
-        butonDukeDerguar: 'Duke u dërguar...',
+        shenimPrivatesie: 'contactForm.form.privacy',
+        butonDergo: 'contactForm.form.submit',
+        butonDukeDerguar: 'contactForm.form.submitting',
         mesazhe: {
-          sukses: 'Mesazhi juaj u dërgua me sukses! Ekipi i Canaj Lift do t’ju kontaktojë së shpejti.',
-          gabimServeri: 'Ndodhi një gabim gjatë dërgimit. Ju lutemi provoni përsëri ose na telefononi në +355 69 604 2852.',
-          gabimCaptcha: 'Ju lutemi plotësoni verifikimin e sigurisë (Cloudflare Captcha) përpara dërgimit.',
+          sukses: 'contactForm.form.messages.success',
+          gabimServeri: 'contactForm.form.messages.serverError',
+          gabimCaptcha: 'contactForm.form.messages.captchaError',
         },
       },
     }),
