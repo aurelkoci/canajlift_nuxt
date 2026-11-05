@@ -12,7 +12,7 @@ export default defineNuxtConfig({
   css: ["~/assets/css/main.css"],
   ssr: true,
   app: {
-    baseURL: '/aurelkoci/canajlift_nuxt/',
+    baseURL: 'https://canajlift.al',
   },
   nitro: {
     preset: 'static'

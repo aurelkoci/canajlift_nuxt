@@ -26,7 +26,7 @@ jobs:
         env:
           # Hiqe ose lëre këtë rresht në varësi të faktit nëse përdor custom domain (canajlift.al -> lëre bosh ose fshi NUXT_APP_BASE_URL)
           # Nëse është nën-folder (username.github.io/repo-name/), lëre poshtë:
-          NUXT_APP_BASE_URL: /${{ github.event.repository.name }}/
+          NUXT_APP_BASE_URL: https://canajlift.al
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
