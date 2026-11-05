@@ -10,11 +10,11 @@
       <div class="xl:grid xl:grid-cols-3 xl:gap-12">
         <!-- Kolona e Brandit, Kontaktit & Rrjeteve Sociale -->
         <div class="space-y-6">
-          <NuxtLink to="/" class="inline-block">
+          <NuxtLinkLocale to="/" class="inline-block">
             <span class="sr-only">{{ tr('nav.brand', 'Canaj Lift') }}</span>
             <img class="h-20 w-auto dark:hidden" src="/logo-canaj-lift-text.svg" alt="Canaj Lift" />
             <img class="h-20 w-auto not-dark:hidden" src="/logo-canaj-lift-text-dark.svg" alt="Canaj Lift" />
-          </NuxtLink>
+          </NuxtLinkLocale>
 
           <p class="max-w-sm text-sm/6 text-celiku dark:text-mjegull">
             {{
@@ -145,13 +145,13 @@
         </p>
 
         <div class="flex flex-wrap items-center gap-x-6 gap-y-2 text-xs text-celiku dark:text-mjegull">
-          <NuxtLink to="/kushtet-e-sherbimit" class="transition hover:text-primary">
+          <NuxtLinkLocale to="/kushtet-e-sherbimit" class="transition hover:text-primary">
             {{ tr('footer.termsOfService', 'Kushtet e Shërbimit') }}
-          </NuxtLink>
+          </NuxtLinkLocale>
           <span aria-hidden="true" class="text-mjegull dark:text-celiku/40">•</span>
-          <NuxtLink to="/politikat-e-privatesis" class="transition hover:text-primary">
+          <NuxtLinkLocale to="/politikat-e-privatesis" class="transition hover:text-primary">
             {{ tr('footer.servicePolicy', 'Politikat e Privatësisë') }}
-          </NuxtLink>
+          </NuxtLinkLocale>
 
           <button
             type="button"

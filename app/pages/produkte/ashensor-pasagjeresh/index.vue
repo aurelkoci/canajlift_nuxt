@@ -36,7 +36,7 @@
                                     </li>
                                 </ul>
                             </div>
-                            <NuxtLink :to="content.elektrik.linkProjekte" class="group mt-8 block">
+                            <NuxtLinkLocale :to="content.elektrik.linkProjekte" class="group mt-8 block">
                                 <figure>
                                     <img
                                         class="aspect-video w-full rounded-xl border border-mjegull bg-mjegull object-cover transition group-hover:brightness-95 dark:border-celiku/30 dark:bg-celiku/20"
@@ -49,7 +49,7 @@
                                         {{ $t(content.elektrik.tekstImazhi) }}
                                     </figcaption>
                                 </figure>
-                            </NuxtLink>
+                            </NuxtLinkLocale>
                         </section>
                     </div>
                 </div>
@@ -75,7 +75,7 @@
                                     </li>
                                 </ul>
                             </div>
-                            <NuxtLink :to="content.hidraulik.linkProjekte" class="group mt-8 block">
+                            <NuxtLinkLocale :to="content.hidraulik.linkProjekte" class="group mt-8 block">
                                 <figure>
                                     <img
                                         class="aspect-video w-full rounded-xl border border-mjegull bg-mjegull object-cover transition group-hover:brightness-95 dark:border-celiku/30 dark:bg-celiku/20"
@@ -88,7 +88,7 @@
                                         {{ $t(content.hidraulik.tekstImazhi) }}
                                     </figcaption>
                                 </figure>
-                            </NuxtLink>
+                            </NuxtLinkLocale>
                         </section>
                     </div>
                 </div>
@@ -218,7 +218,7 @@ withDefaults(
                 ],
                 imazh: 'https://images.unsplash.com/photo-1592256410394-51c948ec13d5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3',
                 tekstImazhi: 'passenger.projectsCaption',
-                linkProjekte: '/projektet',
+                linkProjekte: '/projekte',
             },
             hidraulik: {
                 titull: 'passenger.hydraulic.title',
@@ -239,7 +239,7 @@ withDefaults(
                 ],
                 imazh: 'https://images.unsplash.com/photo-1652119133139-8c6da80c998d?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3',
                 tekstImazhi: 'passenger.projectsCaption',
-                linkProjekte: '/projektet',
+                linkProjekte: '/projekte',
             },
             zgjidhje: {
                 titull: 'passenger.solutions.title',

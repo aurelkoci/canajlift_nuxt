@@ -42,8 +42,8 @@ const installationImage = 'https://images.unsplash.com/photo-1652119133139-8c6da
                     </div>
                 </div>
 
-                <a
-                    href="https://canajlift.al/projektet"
+                <NuxtLinkLocale
+                    to="/projekte"
                     target="_blank"
                     rel="noopener noreferrer"
                     class="group block"
@@ -58,7 +58,7 @@ const installationImage = 'https://images.unsplash.com/photo-1652119133139-8c6da
                     <span class="mt-3 block text-sm text-celiku transition group-hover:text-primary dark:text-mjegull">
                         {{ $t('installationPage.imageCaption') }}
                     </span>
-                </a>
+                </NuxtLinkLocale>
             </div>
         </section>
 
@@ -110,12 +110,12 @@ const installationImage = 'https://images.unsplash.com/photo-1652119133139-8c6da
                         {{ $t('installationPage.closingText') }}
                     </p>
                 </div>
-                <NuxtLink
+                <NuxtLinkLocale
                     to="/kontakt"
                     class="mt-8 inline-flex flex-none items-center justify-center rounded-lg border-l-4 border-primary bg-baze px-6 py-3 text-sm font-bold text-grafit transition hover:bg-mjegull focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary lg:mt-0"
                 >
                     {{ $t('installationPage.contactCta') }}
-                </NuxtLink>
+                </NuxtLinkLocale>
             </div>
         </section>
     </main>

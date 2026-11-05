@@ -208,13 +208,13 @@
                 {{ tr(projekt.vendndodhja) }}
               </span>
 
-              <NuxtLink
+              <NuxtLinkLocale
                 to="/kontakt"
                 class="inline-flex items-center gap-x-1 font-semibold text-grafit transition hover:text-primary dark:text-baze dark:hover:text-primary"
               >
                 <span>{{ tr(content.galeria.kerkoOferteNgjashme) }}</span>
                 <ArrowUpRightIcon class="size-4 text-primary" aria-hidden="true" />
-              </NuxtLink>
+              </NuxtLinkLocale>
             </div>
           </article>
         </div>
@@ -247,13 +247,13 @@
           </div>
 
           <div class="flex flex-wrap items-center gap-4">
-            <NuxtLink
+            <NuxtLinkLocale
               to="/kontakt"
               class="inline-flex items-center gap-x-2.5 rounded-xl bg-primary px-6 py-4 text-sm font-semibold text-baze shadow-sm transition hover:opacity-95"
             >
               <span>{{ tr(content.cta.butonKryesor) }}</span>
               <ArrowUpRightIcon class="size-5" aria-hidden="true" />
-            </NuxtLink>
+            </NuxtLinkLocale>
 
             <a
               :href="`tel:${content.cta.telefonHref}`"

@@ -10,6 +10,13 @@ export default defineNuxtConfig({
     "@nuxtjs/mcp-toolkit",
   ],
   css: ["~/assets/css/main.css"],
+  ssr: true,
+  app: {
+    baseURL: '/aurelkoci/canajlift_nuxt/',
+  },
+  nitro: {
+    preset: 'static'
+  },
   spaLoadingTemplate: "loading.html",
   site: {
     url: "https://canajlift.al",

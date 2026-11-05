@@ -48,13 +48,13 @@ const partners = [
                     <p class="mt-6 max-w-2xl text-lg leading-8 text-celiku dark:text-mjegull">
                         {{ $t('aboutPage.intro') }}
                     </p>
-                    <NuxtLink
+                    <NuxtLinkLocale
                         to="/sherbime/instalim"
                         class="mt-8 inline-flex items-center gap-2 rounded-lg border-l-4 border-primary bg-grafit px-5 py-3 text-sm font-bold text-baze transition hover:bg-celiku focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary dark:bg-baze dark:text-grafit dark:hover:bg-mjegull"
                     >
                         {{ $t('aboutPage.cta') }}
                         <ArrowRightIcon class="h-4 w-4" aria-hidden="true" />
-                    </NuxtLink>
+                    </NuxtLinkLocale>
                 </div>
 
                 <div class="grid grid-cols-2 gap-4">
@@ -104,7 +104,7 @@ const partners = [
                         </p>
                         <ul class="mt-6 space-y-4">
                             <li v-for="service in services" :key="service.title">
-                                <NuxtLink
+                                <NuxtLinkLocale
                                     :to="service.href"
                                     class="group flex gap-3 rounded-xl border border-mjegull bg-baze p-4 transition hover:border-primary/50 dark:border-celiku/30 dark:bg-grafit"
                                 >
@@ -114,7 +114,7 @@ const partners = [
                                         <span class="mt-1 block leading-6 text-celiku dark:text-mjegull">{{ $t(service.description) }}</span>
                                     </span>
                                     <ArrowRightIcon class="ml-auto mt-1 h-4 w-4 flex-none text-celiku transition group-hover:translate-x-1 group-hover:text-primary dark:text-mjegull" aria-hidden="true" />
-                                </NuxtLink>
+                                </NuxtLinkLocale>
                             </li>
                         </ul>
                     </div>
@@ -192,12 +192,12 @@ const partners = [
                         {{ $t('aboutPage.closingText') }}
                     </p>
                 </div>
-                <NuxtLink
+                <NuxtLinkLocale
                     to="/kontakt"
                     class="mt-8 inline-flex flex-none items-center justify-center rounded-lg border-l-4 border-primary bg-baze px-6 py-3 text-sm font-bold text-grafit transition hover:bg-mjegull focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary lg:mt-0"
                 >
                     {{ $t('aboutPage.contactCta') }}
-                </NuxtLink>
+                </NuxtLinkLocale>
             </div>
         </section>
     </main>

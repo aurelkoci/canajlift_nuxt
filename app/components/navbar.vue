@@ -5,11 +5,11 @@
     >
         <nav class="mx-auto flex max-w-7xl items-center justify-between p-6 lg:px-8" :aria-label="t('nav.mainMenu')">
             <div class="flex lg:flex-1">
-                <NuxtLink to="/" class="-m-1.5 p-1.5">
+                <NuxtLinkLocale to="/" class="-m-1.5 p-1.5">
                     <span class="sr-only">{{ t('nav.brand') }}</span>
                     <img class="h-12 w-auto dark:hidden" src="/logo-canaj-lift.svg" alt="" />
                     <img class="h-12 w-auto not-dark:hidden" src="/logo-canaj-lift-dark.svg" alt="" />
-                                </NuxtLink>
+                                </NuxtLinkLocale>
             </div>
             <div class="flex lg:hidden">
                 <button type="button"
@@ -38,7 +38,7 @@
                         <PopoverPanel
                             class="absolute left-1/2 z-10 mt-3 w-screen max-w-md -translate-x-1/2 overflow-hidden rounded-3xl bg-baze shadow-lg shadow-grafit/10 outline-1 outline-grafit/10 dark:bg-grafit dark:shadow-none dark:-outline-offset-1 dark:outline-celiku/30">
                             <div class="p-4">
-                                <NuxtLink v-for="item in products" :key="item.href" :to="item.href"
+                                <NuxtLinkLocale v-for="item in products" :key="item.href" :to="item.href"
                                     @click="close()"
                                     class="group relative flex items-center gap-x-6 rounded-lg p-4 text-sm/6 hover:bg-mjegull dark:hover:bg-celiku/20">
                                     <div
@@ -51,17 +51,17 @@
                                         </span>
                                         <p class="mt-1 text-celiku dark:text-mjegull">{{ item.description }}</p>
                                     </div>
-                                </NuxtLink>
+                                </NuxtLinkLocale>
                             </div>
                             <div
                                 class="grid grid-cols-2 divide-x divide-celiku/20 bg-mjegull dark:divide-celiku/20 dark:bg-grafit">
-                                <NuxtLink v-for="item in callsToAction" :key="item.name" :to="item.href"
+                                <NuxtLinkLocale v-for="item in callsToAction" :key="item.name" :to="item.href"
                                     @click="close()"
                                     class="flex items-center justify-center gap-x-2.5 p-3 text-sm/6 font-semibold text-grafit hover:bg-baze hover:text-primary dark:text-baze dark:hover:bg-celiku/20">
                                     <component :is="item.icon" class="size-5 flex-none text-celiku"
                                         aria-hidden="true" />
                                     {{ item.name }}
-                                </NuxtLink>
+                                </NuxtLinkLocale>
                             </div>
                         </PopoverPanel>
                     </transition>
@@ -87,7 +87,7 @@
                         leave-to-class="opacity-0 translate-y-1">
                         <PopoverPanel
                             class="absolute left-1/2 z-10 mt-3 w-96 -translate-x-1/2 rounded-3xl bg-baze p-4 shadow-lg shadow-grafit/10 outline-1 outline-grafit/10 dark:bg-grafit dark:-outline-offset-1 dark:outline-celiku/30">
-                            <NuxtLink v-for="item in sherbime" :key="item.href" :to="item.href"
+                            <NuxtLinkLocale v-for="item in sherbime" :key="item.href" :to="item.href"
                                 @click="close()"
                                 class="group flex items-center gap-4 rounded-lg p-4 hover:bg-mjegull dark:hover:bg-celiku/20">
                                 <img :src="item.icon" alt="" aria-hidden="true" class="size-10 shrink-0 object-contain" />
@@ -95,24 +95,24 @@
                                     <span>{{ item.name }}</span>
                                     <span class="mt-1 block font-normal text-celiku dark:text-mjegull">{{ item.description }}</span>
                                 </span>
-                            </NuxtLink>
+                            </NuxtLinkLocale>
                         </PopoverPanel>
                     </transition>
                     </div>
                 </Popover>
-                <NuxtLink to="/rreth-nesh" class="text-sm/6 font-semibold text-grafit hover:text-primary dark:text-baze">{{ t('nav.about') }}
-                </NuxtLink>
-                <NuxtLink to="/projekte" class="text-sm/6 font-semibold text-grafit hover:text-primary dark:text-baze">{{ t('nav.projects') }}
-                </NuxtLink>
-                <NuxtLink to="/kontakt" class="text-sm/6 font-semibold text-grafit hover:text-primary dark:text-baze">{{ t('nav.contact') }}
-                </NuxtLink>
+                <NuxtLinkLocale to="/rreth-nesh" class="text-sm/6 font-semibold text-grafit hover:text-primary dark:text-baze">{{ t('nav.about') }}
+                </NuxtLinkLocale>
+                <NuxtLinkLocale to="/projekte" class="text-sm/6 font-semibold text-grafit hover:text-primary dark:text-baze">{{ t('nav.projects') }}
+                </NuxtLinkLocale>
+                <NuxtLinkLocale to="/kontakt" class="text-sm/6 font-semibold text-grafit hover:text-primary dark:text-baze">{{ t('nav.contact') }}
+                </NuxtLinkLocale>
             </PopoverGroup>
             <div class="hidden lg:flex lg:flex-1 lg:justify-end">
                 <div class="flex items-center gap-4">
                     <ThemeToggle />
                     <Locale />
-                                    <NuxtLink to="/login" class="text-sm/6 font-semibold text-grafit hover:text-primary dark:text-baze">{{ t('nav.login') }} <span
-                        aria-hidden="true">&rarr;</span></NuxtLink>
+                                    <NuxtLinkLocale to="/login" class="text-sm/6 font-semibold text-grafit hover:text-primary dark:text-baze">{{ t('nav.login') }} <span
+                        aria-hidden="true">&rarr;</span></NuxtLinkLocale>
                 </div>
                 
 
@@ -124,7 +124,7 @@
                 class="fixed inset-y-0 right-0 z-10 flex w-full flex-col justify-between overflow-y-auto bg-baze sm:max-w-sm sm:ring-1 sm:ring-grafit/10 dark:bg-grafit dark:sm:ring-celiku/20">
                 <div class="p-6">
                     <div class="flex items-center justify-between">
-                        <NuxtLink to="/" class="-m-1.5 p-1.5" @click="mobileMenuOpen = false">
+                        <NuxtLinkLocale to="/" class="-m-1.5 p-1.5" @click="mobileMenuOpen = false">
                             <span class="sr-only">{{ t('nav.brand') }}</span>
                             <img class="h-8 w-auto dark:hidden"
                                 src="/logo-canaj-lift.svg"
@@ -132,7 +132,7 @@
                             <img class="h-8 w-auto not-dark:hidden"
                                 src="/logo-canaj-lift.svg"
                                 alt="" />
-                        </NuxtLink>
+                        </NuxtLinkLocale>
                         <button type="button" class="-m-2.5 rounded-md p-2.5 text-grafit hover:text-primary dark:text-mjegull"
                             @click="mobileMenuOpen = false">
                             <span class="sr-only">{{ t('nav.closeMenu') }}</span>
@@ -142,43 +142,43 @@
                     <div class="mt-6 flow-root">
                         <div class="-my-6 divide-y divide-celiku/20 dark:divide-celiku/20">
                             <div class="space-y-2 py-6">
-                                <NuxtLink v-for="item in products" :key="item.href" :to="item.href"
+                                <NuxtLinkLocale v-for="item in products" :key="item.href" :to="item.href"
                                     @click="mobileMenuOpen = false"
                                     class="group -mx-3 flex items-center gap-x-6 rounded-lg p-3 text-base/7 font-semibold text-grafit hover:bg-mjegull hover:text-primary dark:text-baze dark:hover:bg-celiku/20">
                                     <img :src="item.icon" alt="" aria-hidden="true" class="size-11 shrink-0 object-contain" />
                                     {{ item.name }}
-                                </NuxtLink>
+                                </NuxtLinkLocale>
                             </div>
                             <div class="space-y-2 py-6">
-                                <NuxtLink to="/rreth-nesh" @click="mobileMenuOpen = false"
-                                    class="-mx-3 block rounded-lg px-3 py-2 text-base/7 font-semibold text-grafit hover:bg-mjegull hover:text-primary dark:text-baze dark:hover:bg-celiku/20">{{ t('nav.about') }}</NuxtLink>
-                                <NuxtLink to="/projekte" @click="mobileMenuOpen = false"
-                                    class="-mx-3 block rounded-lg px-3 py-2 text-base/7 font-semibold text-grafit hover:bg-mjegull hover:text-primary dark:text-baze dark:hover:bg-celiku/20">{{ t('nav.projects') }}</NuxtLink>
+                                <NuxtLinkLocale to="/rreth-nesh" @click="mobileMenuOpen = false"
+                                    class="-mx-3 block rounded-lg px-3 py-2 text-base/7 font-semibold text-grafit hover:bg-mjegull hover:text-primary dark:text-baze dark:hover:bg-celiku/20">{{ t('nav.about') }}</NuxtLinkLocale>
+                                <NuxtLinkLocale to="/projekte" @click="mobileMenuOpen = false"
+                                    class="-mx-3 block rounded-lg px-3 py-2 text-base/7 font-semibold text-grafit hover:bg-mjegull hover:text-primary dark:text-baze dark:hover:bg-celiku/20">{{ t('nav.projects') }}</NuxtLinkLocale>
 
-                                <NuxtLink v-for="item in sherbime" :key="item.href" :to="item.href"
+                                <NuxtLinkLocale v-for="item in sherbime" :key="item.href" :to="item.href"
                                     @click="mobileMenuOpen = false"
                                     class="group -mx-3 flex items-center gap-4 rounded-lg px-3 py-2 text-base/7 font-semibold text-grafit hover:bg-mjegull hover:text-primary dark:text-baze dark:hover:bg-celiku/20">
                                     <img :src="item.icon" alt="" aria-hidden="true" class="size-9 shrink-0 object-contain" />
                                     {{ item.name }}
-                                </NuxtLink>
-                                <NuxtLink to="/kontakt" @click="mobileMenuOpen = false"
-                                    class="-mx-3 block rounded-lg px-3 py-2 text-base/7 font-semibold text-grafit hover:bg-mjegull hover:text-primary dark:text-baze dark:hover:bg-celiku/20">{{ t('nav.contact') }}</NuxtLink>
+                                </NuxtLinkLocale>
+                                <NuxtLinkLocale to="/kontakt" @click="mobileMenuOpen = false"
+                                    class="-mx-3 block rounded-lg px-3 py-2 text-base/7 font-semibold text-grafit hover:bg-mjegull hover:text-primary dark:text-baze dark:hover:bg-celiku/20">{{ t('nav.contact') }}</NuxtLinkLocale>
                             </div>
                             <div class="py-6">
                                 <ThemeToggle />
                                 <Locale />
-                                <NuxtLink to="/login" @click="mobileMenuOpen = false"
-                                    class="-mx-3 block rounded-lg px-3 py-2.5 text-base/7 font-semibold text-grafit hover:bg-mjegull hover:text-primary dark:text-baze dark:hover:bg-celiku/20">{{ t('nav.login') }}</NuxtLink>
+                                <NuxtLinkLocale to="/login" @click="mobileMenuOpen = false"
+                                    class="-mx-3 block rounded-lg px-3 py-2.5 text-base/7 font-semibold text-grafit hover:bg-mjegull hover:text-primary dark:text-baze dark:hover:bg-celiku/20">{{ t('nav.login') }}</NuxtLinkLocale>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div
                     class="sticky bottom-0 grid grid-cols-2 divide-x divide-celiku/20 bg-mjegull text-center dark:divide-celiku/20 dark:bg-grafit">
-                    <NuxtLink v-for="item in callsToAction" :key="item.name" :to="item.href"
+                    <NuxtLinkLocale v-for="item in callsToAction" :key="item.name" :to="item.href"
                         @click="mobileMenuOpen = false"
                         class="p-3 text-base/7 font-semibold text-grafit hover:bg-baze hover:text-primary dark:text-baze dark:hover:bg-celiku/20">{{
-                        item.name }}</NuxtLink>
+                        item.name }}</NuxtLinkLocale>
                 </div>
             </DialogPanel>
         </Dialog>

@@ -388,7 +388,7 @@ const props = withDefaults(
             etiketa: 'Adresa e Zyrave',
             vlera: 'Fresku, Rruga "Muhamet Deliu" Dajt Tiranë',
             shenim: 'Tiranë, Shqipëri',
-            href: 'https://www.google.com/maps/search/?api=1&query=Fresku+Rruga+Muhamet+Deliu+Dajt+Tirane',
+            href: 'https://maps.app.goo.gl/s6hAnoGXNPaSCWqL6',
             external: true,
             icon: MapPinIcon,
           },

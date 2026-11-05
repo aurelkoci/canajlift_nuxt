@@ -36,7 +36,7 @@
                                     </li>
                                 </ul>
                             </div>
-                            <NuxtLink :to="content.platforma.linkProjekte" class="group mt-8 block">
+                            <NuxtLinkLocale :to="content.platforma.linkProjekte" class="group mt-8 block">
                                 <figure>
                                     <img
                                         class="aspect-video w-full rounded-xl border border-mjegull bg-mjegull object-cover transition group-hover:brightness-95 dark:border-celiku/30 dark:bg-celiku/20"
@@ -49,7 +49,7 @@
                                         {{ $t(content.platforma.tekstImazhi) }}
                                     </figcaption>
                                 </figure>
-                            </NuxtLink>
+                            </NuxtLinkLocale>
                         </section>
                     </div>
                 </div>
@@ -75,7 +75,7 @@
                                     </li>
                                 </ul>
                             </div>
-                            <NuxtLink :to="content.siguria.linkProjekte" class="group mt-8 block">
+                            <NuxtLinkLocale :to="content.siguria.linkProjekte" class="group mt-8 block">
                                 <figure>
                                     <img
                                         class="aspect-video w-full rounded-xl border border-mjegull bg-mjegull object-cover transition group-hover:brightness-95 dark:border-celiku/30 dark:bg-celiku/20"
@@ -88,7 +88,7 @@
                                         {{ $t(content.siguria.tekstImazhi) }}
                                     </figcaption>
                                 </figure>
-                            </NuxtLink>
+                            </NuxtLinkLocale>
                         </section>
                     </div>
                 </div>
@@ -116,7 +116,7 @@
                         </span>
                     </li>
                 </ul>
-                <NuxtLink :to="content.instalimi.linkProjekte" class="group mt-8 block">
+                <NuxtLinkLocale :to="content.instalimi.linkProjekte" class="group mt-8 block">
                     <figure>
                         <img
                             class="aspect-video w-full rounded-xl border border-mjegull bg-mjegull object-cover transition group-hover:brightness-95 dark:border-celiku/30 dark:bg-celiku/20"
@@ -129,7 +129,7 @@
                             {{ $t(content.instalimi.tekstImazhi) }}
                         </figcaption>
                     </figure>
-                </NuxtLink>
+                </NuxtLinkLocale>
             </div>
         </section>
 
